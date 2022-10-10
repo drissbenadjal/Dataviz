@@ -10,6 +10,10 @@ window.onload = function () {
             document.querySelector(".loader").style.filter = "alpha(opacity=" + opacity * 100 + ")";
             opacity = opacity - opacity * 0.1;
         }, 40);
-    }, 2000);
+        const myChart = new Chart(
+            document.getElementById('myChart'),
+            config
+        );
+    }, 1500);
     initialize();
 }

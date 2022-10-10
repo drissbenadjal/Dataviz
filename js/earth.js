@@ -20,7 +20,7 @@ function initialize() {
     earth.setView([40, 0], 2.7);
     earth.setTilt(0);
     earth.setHeading(0);
-    earth.setMinAltitude(1000000);
+    earth.setMinAltitude(7000000);
     earth.setMaxAltitude(20000000);
 
     var before = null;
