@@ -1,0 +1,80 @@
+[
+    {
+        "Pays": "France",
+        "Ville": "Paris",
+        "Lat": "48.8588897",
+        "Long": "2.320041"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Lyon",
+        "Lat": "45.764043",
+        "Long": "4.835659"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Marseille",
+        "Lat": "43.296482",
+        "Long": "5.36978"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Lille",
+        "Lat": "50.62925",
+        "Long": "3.057256"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Toulouse",
+        "Lat": "43.604652",
+        "Long": "1.444209"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Nice",
+        "Lat": "43.7101728",
+        "Long": "7.2619532"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Nantes",
+        "Lat": "47.218371",
+        "Long": "-1.553621"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Strasbourg",
+        "Lat": "48.5734053",
+        "Long": "7.7521113"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Montpellier",
+        "Lat": "43.610769",
+        "Long": "3.876716"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Bordeaux",
+        "Lat": "44.837789",
+        "Long": "-0.57918"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Rennes",
+        "Lat": "48.117266",
+        "Long": "-1.6777936"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Le Havre",
+        "Lat": "49.493897",
+        "Long": "0.107973"
+    },
+    {
+        "Pays": "France",
+        "Ville": "Reims",
+        "Lat": "49.258329",
+        "Long": "4.031696"
+    }
+]
