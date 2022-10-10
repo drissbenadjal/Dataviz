@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: "Tangsel";
+    src: url("../fonts/Tangsel.woff2") format("woff2"), url("../fonts/Tangsel.woff") format("woff");
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -12,6 +17,18 @@ body {
     padding: 0;
     margin: 0;
     background-color: #333;
+    color: white;
+    font-family: Tangsel;
+}
+
+.loader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: #333;
+    z-index: 1000;
 }
 
 #earth_div {
@@ -27,20 +44,69 @@ body {
 }
 
 .front {
+    max-width: 450px;
+    padding: 15px;
+    padding-top: 0;
+}
+
+.front header {
     position: relative;
     z-index: 100;
-    max-width: 300px;
+    max-width: 450px;
+    padding: 15px;
+    padding-top: 0;
+}
+
+.front header .separator {
+    height: 2px;
+    width: 100%;
+    background-color: white;
 }
 
 .front ul {
+    position: absolute;
+    z-index: 100;
+    top: 50%;
+    left: 10px;
+    transform: translate(0, -50%);
     list-style: none;
     padding: 0;
     margin: 0;
+    gap: 25px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
 }
 
-#earth_div div {}
+.front ul li button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+}
+
+.front ul li button:hover {
+    transform: scale(1.3);
+    transition: all ease-in-out 0.3s;
+}
+
+.front ul li .activeyear {
+    transform: scale(1.3);
+}
+
+#earth_div {
+    color: #333;
+}
+
+#myChart {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 500px !important;
+    width: 500px !important;
+    z-index: 100;
+}
 
 .we-pm-icon {}

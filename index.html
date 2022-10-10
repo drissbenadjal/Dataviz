@@ -6,13 +6,19 @@
     <title>EVOLUTION DE</title>
     <link rel="stylesheet" href="css/style.css">
     <script defer src="https://www.webglearth.com/v2/api.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script defer src="js/earth.js"></script>
+    <script defer src="js/chartjs.js"></script>
     <script defer src="js/script.js"></script>
 </head>
 
-<body onload="initialize()">
+<body>
+    <div class="loader"></div>
     <div class="front">
-        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
-        <div class="separator"></div>
+        <header>
+            <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
+            <div class="separator"></div>
+        </header>
         <ul>
             <li><button id="btn2015">2015</button></li>
             <li><button id="btn2016">2016</button></li>
@@ -24,6 +30,7 @@
             <li><button id="btn2022">2022</button></li>
         </ul>
     </div>
+    <canvas id="myChart"></canvas>
     <div id="earth_div"></div>
 </body>
 
