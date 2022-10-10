@@ -21,6 +21,54 @@ body {
     font-family: Tangsel;
 }
 
+body:before {
+    z-index: 99;
+    position: fixed;
+    animation: grain 8s steps(10) infinite;
+    background-image: url(../images/noise.png);
+    content: "";
+    height: 300%;
+    left: -50%;
+    opacity: 1;
+    top: -100%;
+    width: 300%;
+    pointer-events: none;
+}
+
+@keyframes grain {
+    0%,
+    to {
+        transform: translate(0)
+    }
+    10% {
+        transform: translate(-5%, -10%)
+    }
+    20% {
+        transform: translate(-15%, 5%)
+    }
+    30% {
+        transform: translate(7%, -25%)
+    }
+    40% {
+        transform: translate(-5%, 25%)
+    }
+    50% {
+        transform: translate(-15%, 10%)
+    }
+    60% {
+        transform: translate(15%)
+    }
+    70% {
+        transform: translateY(15%)
+    }
+    80% {
+        transform: translate(3%, 35%)
+    }
+    90% {
+        transform: translate(-10%, 10%)
+    }
+}
+
 .loader {
     position: absolute;
     top: 0;
@@ -44,7 +92,7 @@ body {
 }
 
 .front {
-    max-width: 450px;
+    max-width: 650px;
     padding: 15px;
     padding-top: 0;
 }
@@ -52,14 +100,13 @@ body {
 .front header {
     position: relative;
     z-index: 100;
-    max-width: 450px;
     padding: 15px;
     padding-top: 0;
 }
 
 .front header .separator {
     height: 2px;
-    width: 100%;
+    width: 95%;
     background-color: white;
 }
 
