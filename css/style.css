@@ -36,34 +36,44 @@ body:before {
 }
 
 @keyframes grain {
+
     0%,
     to {
         transform: translate(0)
     }
+
     10% {
         transform: translate(-5%, -10%)
     }
+
     20% {
         transform: translate(-15%, 5%)
     }
+
     30% {
         transform: translate(7%, -25%)
     }
+
     40% {
         transform: translate(-5%, 25%)
     }
+
     50% {
         transform: translate(-15%, 10%)
     }
+
     60% {
         transform: translate(15%)
     }
+
     70% {
         transform: translateY(15%)
     }
+
     80% {
         transform: translate(3%, 35%)
     }
+
     90% {
         transform: translate(-10%, 10%)
     }
@@ -156,4 +166,7 @@ body:before {
     z-index: 100;
 }
 
-.we-pm-icon {}
+.we-pm-icon {
+    cursor: pointer;
+    background-image: url(../images/m.png) !important;
+}
