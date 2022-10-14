@@ -6,17 +6,54 @@
     <title>Origine des astronautes ayant réalisés des missions spatiales de 1965 à aujourd'hui ? </title>
     <link rel="stylesheet" href="css/style.css">
     <script defer src="https://www.webglearth.com/v2/api.js"></script>
+    <script defer src="https://d3js.org/d3.v4.js"></script>
+    <script defer src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script defer src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
     <script defer src="js/earth.js"></script>
+    <script defer src="js/mapd3.js"></script>
     <script defer src="js/script.js"></script>
 </head>
 
 <body>
+
     <div class="loader"></div>
+    <div class="parent">
+        <div class="div1"> 
+            <ul>
+                <li><button id="btn1965">1965</button></li>
+                <li><button id="btn1985">1985</button></li>
+                <li><button id="btn1995">1995</button></li>
+                <li><button id="btn2000">2000</button></li>
+                <li><button id="btn2005">2005</button></li>
+                <li><button id="btn2010">2010</button></li>
+                <li><button id="btn2015">2015</button></li>
+                <li><button id="btn2020">2020</button></li>
+                <li><button id="btn2022">2022</button></li>
+            </ul>
+        </div>
+        <div class="div2"> 
+            <div class="aura"></div>
+            <div id="earth_div"></div>
+        </div>
+        <div class="div3"> 
+            <header>
+                <h2>Origine des astronautes ayant réalisés des missions spatiales de 1965 à aujourd'hui ?</h2>
+                <div class="separator"></div>
+            </header>
+        </div>
+        <div class="div4"> 
+            <svg id="my_dataviz" width="440" height="300"></svg>
+        </div>
+    </div>
+
+
+    <!--
     <div class="front">
         <header>
             <h2>Origine des astronautes ayant réalisés des missions spatiales de 1965 à aujourd'hui ?</h2>
             <div class="separator"></div>
         </header>
+
         <ul>
             <li><button id="btn1965">1965</button></li>
             <li><button id="btn1985">1985</button></li>
@@ -29,8 +66,10 @@
             <li><button id="btn2022">2022</button></li>
         </ul>
     </div>
+    <svg id="my_dataviz" width="440" height="300"></svg>
     <div class="aura"></div>
     <div id="earth_div"></div>
+    -->
 </body>
 
 </html>

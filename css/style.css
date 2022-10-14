@@ -101,26 +101,20 @@ body:before {
     content: '' !important;
 }
 
-.front {
-    max-width: 650px;
-    padding: 15px;
-    padding-top: 0;
-}
-
-.front header {
+header {
     position: relative;
     z-index: 100;
     padding: 15px;
     padding-top: 0;
 }
 
-.front header .separator {
+header .separator {
     height: 2px;
     width: 95%;
     background-color: white;
 }
 
-.front ul {
+ul {
     position: absolute;
     z-index: 100;
     top: 50%;
@@ -135,7 +129,7 @@ body:before {
     justify-content: space-between;
 }
 
-.front ul li button {
+ul li button {
     background-color: transparent;
     border: none;
     color: white;
@@ -144,23 +138,28 @@ body:before {
     transition: all ease-in-out 0.3s;
 }
 
-.front ul li button:hover {
+ul li button:hover {
     transform: scale(1.3);
     transition: all ease-in-out 0.3s;
 }
 
-.front ul li .activeyear {
+ul li .activeyear {
     transform: scale(1.3);
+}
+
+#my_dataviz{
+    position: relative;
+    z-index: 5;
 }
 
 .aura {
     z-index: -1;
     position: absolute;
     top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 80vh;
-    height: 80vh;
+    left: 39%;
+    transform: translate(-45%, -50%);
+    width: 88vh;
+    height: 88vh;
     border-radius: 50%;
     -webkit-box-shadow: 0px 0px 38px 4px #ffffff9a;
     box-shadow: 0px 0px 38px 4px #ffffff9a;
@@ -168,6 +167,7 @@ body:before {
 
 #earth_div {
     color: #333;
+    left: -18%;
 }
 
 #myChart {
@@ -183,3 +183,36 @@ body:before {
     cursor: pointer;
     background-image: url(../images/m.png) !important;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+    
+    .div1 { grid-area: 2 / 1 / 6 / 2; }
+    .div2 { grid-area: 2 / 2 / 6 / 5; }
+    .div3 { grid-area: 1 / 1 / 2 / 7; }
+    .div4 { grid-area: 2 / 5 / 6 / 7; }

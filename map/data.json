@@ -1947,6 +1947,114 @@
     },
 
     {
+        "astronaute": "Anatoli Ivanichine",
+        "originaire de": "Irkoutsk",
+        "lat": "52.32124283233129",
+        "long": "104.28859543046421",
+        "année": "2020",
+        "mission": "Rotation de l’équipage permanent de l’ISS"
+    },
+
+    {
+        "astronaute": "Ivan Vagner",
+        "originaire de": "Severonejsk",
+        "lat": "58.34324469573582",
+        "long": "61.58512607093227",
+        "année": "2020",
+        "mission": "Rotation de l’équipage permanent de l’ISS"
+    },
+
+    {
+        "astronaute": "Christopher Cassidy",
+        "originaire de": "Salem",
+        "lat": "42.512537324113566",
+        "long": "-70.91040762049757",
+        "année": "2020",
+        "mission": "Rotation de l’équipage permanent de l’ISS"
+    },
+
+    {
+        "astronaute": "Douglas Hurley",
+        "originaire de": "Endicott",
+        "lat": "42.095736138315644",
+        "long": "-76.06456040859555",
+        "année": "2020",
+        "mission": "Vol d’essai du Crew Dragon."
+    },
+
+    {
+        "astronaute": "Robert Behnken",
+        "originaire de": "Creve Coeur",
+        "lat": "38.65898953019455",
+        "long": "-90.4481438022819",
+        "année": "2020",
+        "mission": "Vol d’essai du Crew Dragon."
+    },
+
+    {
+        "astronaute": "Sergueï Ryjikov",
+        "originaire de": "Bougoulma",
+        "lat": "54.53757646075047",
+        "long": "52.7788628374749",
+        "année": "2020",
+        "mission": "Rotation de l’équipage permanent de l’ISS "
+    },
+
+    {
+        "astronaute": "Sergueï Koud-Skvertchkov",
+        "originaire de": "Leninsk",
+        "lat": "48.7062216042078",
+        "long": "45.2003853737912",
+        "année": "2020",
+        "mission": "Rotation de l’équipage permanent de l’ISS "
+    },
+
+    {
+        "astronaute": "Kathleen Rubins",
+        "originaire de": "Farmington",
+        "lat": "41.715777583645796",
+        "long": "-72.84864975531505",
+        "année": "2020",
+        "mission": "Rotation de l’équipage permanent de l’ISS "
+    },
+
+    {
+        "astronaute": "Michael Hopkins",
+        "originaire de": "Lebanon",
+        "lat": "37.679960298271595",
+        "long": "-92.66394811144669",
+        "année": "2020",
+        "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS "
+    },
+
+    {
+        "astronaute": "Victor J. Glover",
+        "originaire de": "Pomona",
+        "lat": "34.0648508654582",
+        "long": "-117.76136197462252",
+        "année": "2020",
+        "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS "
+    },
+
+    {
+        "astronaute": "Soichi Noguchi",
+        "originaire de": "Yokohama",
+        "lat": "35.47725106987569",
+        "long": "139.5723897694293",
+        "année": "2020",
+        "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS "
+    },
+
+    {
+        "astronaute": "Shannon Walker",
+        "originaire de": "Houston",
+        "lat": "29.78589884756947",
+        "long": "-95.43155476895197",
+        "année": "2020",
+        "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS "
+    },
+
+    {
         "astronaute": "Nicole Mann",
         "originaire de": "Penngrove",
         "lat": "38.30083762682075",
