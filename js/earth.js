@@ -23,6 +23,9 @@ function initialize() {
     earth.setMinAltitude(7000000);
     earth.setMaxAltitude(20000000);
 
+
+    console.log(earth.getZoom());
+
     var before = null;
     requestAnimationFrame(function animate(now) {
         var c = earth.getPosition();
