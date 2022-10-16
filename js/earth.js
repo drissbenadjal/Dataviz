@@ -17,11 +17,11 @@ function initialize() {
     WE.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     }).addTo(earth);
 
-    earth.setView([40, 0], 2.288);
+    earth.setView([40, 0], 2.6);
     earth.setTilt(0);
     earth.setHeading(0);
-    earth.setMinAltitude(7000000);
-    earth.setMaxAltitude(25000000);
+    earth.setMinAltitude(14000000);
+    earth.setMaxAltitude(23000000);
 
 
     console.log(earth.getZoom());
