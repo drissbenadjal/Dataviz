@@ -13,3 +13,4 @@ window.onload = function () {
     }, 1500);
     initialize();
 }
+

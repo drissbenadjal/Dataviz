@@ -38,6 +38,7 @@ function initialize() {
     earth.on('click', function () {
         document.body.style.cursor = 'pointer';
     });
+
     let markers=[];
 
     function markerGenerate() { 
@@ -49,13 +50,10 @@ function initialize() {
             .then(function (data) {
                 data.forEach(function (e) {
                     if (e.année == localStorage.getItem("year")) {
-                        let marker = WE.marker([e.lat, e.long],{className:'xx'}).addTo(earth);
-                        marker.bindPopup(e.astronaute, { maxWidth: 200, closeButton: true, className:'aaaa' });
+                        let marker = WE.marker([e.lat, e.long]).addTo(earth);
+                        // marker.bindPopup(e.astronaute, { maxWidth: 200, closeButton: true});
                         markers.push(marker)
                     }
-                    // if(localStorage.getItem("year") == 2022){
-                    //     document.querySelectorAll(".we-pm-icon").forEach(element =>)
-                    // }
                 });
             });
     }
