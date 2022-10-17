@@ -38,31 +38,38 @@ function initialize() {
     earth.on('click', function () {
         document.body.style.cursor = 'pointer';
     });
+    let markers=[];
 
-    function markerGenerate() {
+    function markerGenerate() { 
+    markers.forEach(m=>
+        earth.removeMarker(m));
+        markers=[]
         fetch("./map/data.json")
             .then(response => response.json())
             .then(function (data) {
                 data.forEach(function (e) {
                     if (e.année == localStorage.getItem("year")) {
-                        let marker = WE.marker([e.lat, e.long]).addTo(earth);
-                        marker.bindPopup(e.astronaute, { maxWidth: 200, closeButton: true });
+                        let marker = WE.marker([e.lat, e.long],{className:'xx'}).addTo(earth);
+                        marker.bindPopup(e.astronaute, { maxWidth: 200, closeButton: true, className:'aaaa' });
+                        markers.push(marker)
                     }
+                    // if(localStorage.getItem("year") == 2022){
+                    //     document.querySelectorAll(".we-pm-icon").forEach(element =>)
+                    // }
                 });
             });
     }
     markerGenerate();
+    
 
     btn1965.addEventListener("click", function () {
-        document.querySelectorAll('.we-pm-icon').forEach(el => el.parentNode.removeChild(el));
-        document.querySelector(".activeyear").classList.remove("activeyear");
+    document.querySelector(".activeyear").classList.remove("activeyear");
         let year = localStorage.setItem("year", 1965);
         btn1965.classList.add("activeyear");
         markerGenerate();
     });
 
     btn1985.addEventListener("click", function () {
-        document.querySelectorAll('.we-pm-icon').forEach(el => el.parentNode.removeChild(el));
         document.querySelector(".activeyear").classList.remove("activeyear");
         let year = localStorage.setItem("year", 1985);
         btn1985.classList.add("activeyear");
@@ -70,7 +77,6 @@ function initialize() {
     });
 
     btn1995.addEventListener("click", function () {
-        document.querySelectorAll('.we-pm-icon').forEach(el => el.parentNode.removeChild(el));
         document.querySelector(".activeyear").classList.remove("activeyear");
         let year = localStorage.setItem("year", 1995);
         btn1995.classList.add("activeyear");
@@ -78,7 +84,6 @@ function initialize() {
     });
 
     btn2000.addEventListener("click", function () {
-        document.querySelectorAll('.we-pm-icon').forEach(el => el.parentNode.removeChild(el));
         document.querySelector(".activeyear").classList.remove("activeyear");
         let year = localStorage.setItem("year", 2000);
         btn2000.classList.add("activeyear");
@@ -86,7 +91,6 @@ function initialize() {
     });
 
     btn2005.addEventListener("click", function () {
-        document.querySelectorAll('.we-pm-icon').forEach(el => el.parentNode.removeChild(el));
         document.querySelector(".activeyear").classList.remove("activeyear");
         let year = localStorage.setItem("year", 2005);
         btn2005.classList.add("activeyear");
@@ -94,7 +98,6 @@ function initialize() {
     });
 
     btn2010.addEventListener("click", function () {
-        document.querySelectorAll('.we-pm-icon').forEach(el => el.parentNode.removeChild(el));
         document.querySelector(".activeyear").classList.remove("activeyear");
         let year = localStorage.setItem("year", 2010);
         btn2010.classList.add("activeyear");
@@ -102,7 +105,6 @@ function initialize() {
     });
 
     btn2015.addEventListener("click", function () {
-        document.querySelectorAll('.we-pm-icon').forEach(el => el.parentNode.removeChild(el));
         document.querySelector(".activeyear").classList.remove("activeyear");
         let year = localStorage.setItem("year", 2015);
         btn2015.classList.add("activeyear");
@@ -110,7 +112,6 @@ function initialize() {
     });
 
     btn2020.addEventListener("click", function () {
-        document.querySelectorAll('.we-pm-icon').forEach(el => el.parentNode.removeChild(el));
         document.querySelector(".activeyear").classList.remove("activeyear");
         let year = localStorage.setItem("year", 2020);
         btn2020.classList.add("activeyear");
@@ -118,7 +119,6 @@ function initialize() {
     });
 
     btn2022.addEventListener("click", function () {
-        document.querySelectorAll('.we-pm-icon').forEach(el => el.parentNode.removeChild(el));
         document.querySelector(".activeyear").classList.remove("activeyear");
         let year = localStorage.setItem("year", 2022);
         btn2022.classList.add("activeyear");

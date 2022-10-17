@@ -13,8 +13,8 @@ var projection = d3.geoMercator()
 d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson", function(data){
 
     // Filter data
-    data.features = data.features.filter(function(d){console.log(d.properties.name) ; return d.properties.name=="France"})
-
+    data.features = data.features.filter(function(d){ return d.properties.name=="France"})
+    //console.log(d.properties.name)
     // Draw the map
     svg.append("g")
         .selectAll("path")
