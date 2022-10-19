@@ -51,9 +51,30 @@ function initialize() {
                 data.forEach(function (e) {
                     if (e.année == localStorage.getItem("year")) {
                         let marker = WE.marker([e.lat, e.long]).addTo(earth);
+                        document.querySelectorAll('.we-pm-icon').forEach(element => {
+                            element.setAttribute('data-name', e.astronaute);
+                            element.setAttribute('data-mission', e.mission);
+                            element.setAttribute('data-date', e.année);
+                            element.setAttribute('data-origine', e.originaire);
+                        });
                         // marker.bindPopup(e.astronaute, { maxWidth: 200, closeButton: true});
                         markers.push(marker)
                     }
+                });
+                document.querySelectorAll('.we-pm-icon').forEach(element => {
+                    element.addEventListener("click", function () {
+                        const modal = document.querySelector('.div4');
+                        const astroname = document.querySelector('#astroname');
+                        const astromission = document.querySelector('#astromission');
+                        const astrodate = document.querySelector('#astrodate');
+
+
+                        modal.classList.toggle('hidden-modal');
+                        astroname.innerHTML = this.getAttribute('data-name');
+                        astromission.innerHTML = this.getAttribute('data-mission');
+                        astrodate.innerHTML = this.getAttribute('data-date');
+                        
+                    });
                 });
             });
     }
@@ -121,13 +142,6 @@ function initialize() {
         let year = localStorage.setItem("year", 2022);
         btn2022.classList.add("activeyear");
         markerGenerate();
-    });
-
-
-    markers.forEach(element => {
-        element.addEventListener("click", function () {
-            console.log("click");
-        });
     });
 
 }
