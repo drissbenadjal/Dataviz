@@ -35,16 +35,16 @@ function initialize() {
         requestAnimationFrame(animate);
     });
 
-    earth.on('click', function () {
-        document.body.style.cursor = 'pointer';
-    });
+    // earth.on('click', function () {
+    //     document.body.style.cursor = 'pointer';
+    // });
 
-    let markers=[];
+    let markers = [];
 
-    function markerGenerate() { 
-    markers.forEach(m=>
-        earth.removeMarker(m));
-        markers=[]
+    function markerGenerate() {
+        markers.forEach(m =>
+            earth.removeMarker(m));
+        markers = []
         fetch("./map/data.json")
             .then(response => response.json())
             .then(function (data) {
@@ -58,10 +58,10 @@ function initialize() {
             });
     }
     markerGenerate();
-    
+
 
     btn1965.addEventListener("click", function () {
-    document.querySelector(".activeyear").classList.remove("activeyear");
+        document.querySelector(".activeyear").classList.remove("activeyear");
         let year = localStorage.setItem("year", 1965);
         btn1965.classList.add("activeyear");
         markerGenerate();
@@ -123,7 +123,11 @@ function initialize() {
         markerGenerate();
     });
 
-}
 
-//1953e04b89e8093c179d10d405de30dd
-//https://positionstack.com/documentation
+    markers.forEach(element => {
+        element.addEventListener("click", function () {
+            console.log("click");
+        });
+    });
+
+}

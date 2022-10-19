@@ -184,6 +184,10 @@ ul li .activeyear {
     background-image: url(../images/point_bleu.png) !important;
 }
 
+.hidden-modal {
+    display: none;
+}
+
 
 
 
