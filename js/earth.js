@@ -1,3 +1,5 @@
+var earth
+
 function initialize() {
 
     btn1965 = document.getElementById("btn1965");
@@ -10,10 +12,10 @@ function initialize() {
     btn2020 = document.getElementById("btn2020");
     btn2022 = document.getElementById("btn2022");
 
-    localStorage.setItem("year", 2022);
-    btn2022.classList.add("activeyear");
+    localStorage.setItem("year", 1965);
+    btn1965.classList.add("activeyear");
 
-    var earth = new WE.map('earth_div');
+    earth = new WE.map('earth_div', { atmosphere: true, sky: false });
     WE.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     }).addTo(earth);
 
@@ -24,7 +26,13 @@ function initialize() {
     earth.setMaxAltitude(23000000);
 
 
-    console.log(earth.getZoom());
+    earth.on('pointerdown', function () {
+        document.body.style.cursor = 'pointer';
+    });
+
+    earth.on('pointerup', function () {
+        document.body.style.cursor = 'auto';
+    });
 
     var before = null;
     requestAnimationFrame(function animate(now) {
@@ -34,10 +42,6 @@ function initialize() {
         earth.setCenter([c[0], c[1] + 0.1 * (elapsed / 30)]);
         requestAnimationFrame(animate);
     });
-
-    // earth.on('click', function () {
-    //     document.body.style.cursor = 'pointer';
-    // });
 
     let markers = [];
 
@@ -51,12 +55,12 @@ function initialize() {
                 data.forEach(function (e) {
                     if (e.année == localStorage.getItem("year")) {
                         let marker = WE.marker([e.lat, e.long]).addTo(earth);
-                        document.querySelectorAll('.we-pm-icon').forEach(element => {
-                            element.setAttribute('data-name', e.astronaute);
-                            element.setAttribute('data-mission', e.mission);
-                            element.setAttribute('data-date', e.année);
-                            element.setAttribute('data-origine', e.originaire);
-                        });
+                        let element = document.querySelectorAll('.we-pm-icon')[document.querySelectorAll('.we-pm-icon').length - 1];
+                        element.setAttribute('data-name', e.astronaute);
+                        element.setAttribute('data-mission', e.mission);
+                        element.setAttribute('data-date', e.année);
+                        element.setAttribute('data-origine', e.originaire);
+                        element.setAttribute('data-pays', e.pays);
                         // marker.bindPopup(e.astronaute, { maxWidth: 200, closeButton: true});
                         markers.push(marker)
                     }
@@ -67,13 +71,15 @@ function initialize() {
                         const astroname = document.querySelector('#astroname');
                         const astromission = document.querySelector('#astromission');
                         const astrodate = document.querySelector('#astrodate');
+                        const astropays = document.querySelector('#astropays');
 
 
                         modal.classList.toggle('hidden-modal');
                         astroname.innerHTML = this.getAttribute('data-name');
                         astromission.innerHTML = this.getAttribute('data-mission');
                         astrodate.innerHTML = this.getAttribute('data-date');
-                        
+                        astropays.innerHTML = this.getAttribute('data-pays');
+
                     });
                 });
             });
