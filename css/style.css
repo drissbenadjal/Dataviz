@@ -162,9 +162,6 @@ ul li .activeyear {
     background-image: url(../images/point_bleu.png) !important;
 }
 
-.hidden-modal {
-    display: none;
-}
 
 .parent {
     display: grid;
@@ -192,4 +189,9 @@ ul li .activeyear {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+
+.hidden-modal {
+    display: none;
 }

@@ -1,6 +1,19 @@
-var earth
-
 function initialize() {
+
+    const pays = {};
+
+    fetch("./map/pays.json")
+        .then(response => response.json())
+        .then(function (data) {
+            data.forEach(function (p) {
+                pays[p.pays] = {
+                    lat: p.lat,
+                    long: p.long,
+                    scale: p.scale
+                }
+            });
+            console.log(pays)
+        });
 
     btn1965 = document.getElementById("btn1965");
     btn1985 = document.getElementById("btn1985");
@@ -15,7 +28,7 @@ function initialize() {
     localStorage.setItem("year", 1965);
     btn1965.classList.add("activeyear");
 
-    earth = new WE.map('earth_div', { atmosphere: true, sky: false });
+    var earth = new WE.map('earth_div', { atmosphere: true, sky: false });
     WE.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     }).addTo(earth);
 
@@ -34,13 +47,24 @@ function initialize() {
         document.body.style.cursor = 'auto';
     });
 
-    var before = null;
-    requestAnimationFrame(function animate(now) {
-        var c = earth.getPosition();
-        var elapsed = before ? now - before : 0;
-        before = now;
-        earth.setCenter([c[0], c[1] + 0.1 * (elapsed / 30)]);
-        requestAnimationFrame(animate);
+    function animEarth() {
+        var before = null;
+        requestAnimationFrame(function animate(now) {
+            var c = earth.getPosition();
+            var elapsed = before ? now - before : 0;
+            before = now;
+            earth.setCenter([c[0], c[1] + 0.1 * (elapsed / 30)]);
+            requestAnimationFrame(animate);
+        });
+    }
+    animEarth();
+
+    earth.on('pointerdown', function () {
+        document.body.style.cursor = 'pointer';
+    });
+
+    earth.on('pointerup', function () {
+        document.body.style.cursor = 'auto';
     });
 
     let markers = [];
@@ -74,11 +98,15 @@ function initialize() {
                         const astropays = document.querySelector('#astropays');
 
 
-                        modal.classList.toggle('hidden-modal');
+                        modal.classList.remove('hidden-modal');
                         astroname.innerHTML = this.getAttribute('data-name');
                         astromission.innerHTML = this.getAttribute('data-mission');
                         astrodate.innerHTML = this.getAttribute('data-date');
                         astropays.innerHTML = this.getAttribute('data-pays');
+
+                        let namePays = this.getAttribute('data-pays');
+
+                        affichePays(namePays, pays)
 
                     });
                 });
