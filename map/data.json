@@ -1,5 +1,4 @@
 [
-
     {
         "astronaute": "Alexeï Arkhipovitch Leonov",
         "originaire": "Listvianka",
@@ -9,7 +8,6 @@
         "mission": "Première sortie dans l'espace.",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Pavel Ivanovitch Beliaïev",
         "originaire": "Chelishchëvo",
@@ -19,7 +17,6 @@
         "mission": "Première sortie dans l'espace.",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Virgil Ivan Grissom",
         "originaire": "Mitchell",
@@ -29,7 +26,6 @@
         "mission": "Première personne à réussir des manœuvres en orbite.",
         "pays": "USA"
     },
-
     {
         "astronaute": "John Watts Young",
         "originaire": "San Francisco",
@@ -39,7 +35,6 @@
         "mission": "Première personne à réussir des manœuvres en orbite.",
         "pays": "USA"
     },
-
     {
         "astronaute": "James Alton McDivitt",
         "originaire": "Chicago",
@@ -49,7 +44,6 @@
         "mission": "Première sortie dans l'espace pour un Américain.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Edward Higgins White II",
         "originaire": "San Antonio",
@@ -59,7 +53,6 @@
         "mission": "Première sortie dans l'espace pour un Américain.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Leroy Gordon Cooper Jr.",
         "originaire": "Shawnee",
@@ -69,7 +62,6 @@
         "mission": "Premier vol spatial d'une semaine.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Charles Conrad Jr.",
         "originaire": "Philadelphie",
@@ -79,7 +71,6 @@
         "mission": "Premier vol spatial d'une semaine.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Frank Borman",
         "originaire": "Gary",
@@ -89,7 +80,6 @@
         "mission": "Premier vol de deux semaines.",
         "pays": "USA"
     },
-
     {
         "astronaute": "James Arthur Lovel Jr.",
         "originaire": "Cleveland",
@@ -99,7 +89,6 @@
         "mission": "Premier vol de deux semaines.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Walter Marty Schirra Jr.",
         "originaire": "Hackensack",
@@ -109,7 +98,6 @@
         "mission": "Premier rendez-vous spatial.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Thomas Patten Stafford",
         "originaire": "Weatherford",
@@ -119,7 +107,6 @@
         "mission": "Premier rendez-vous spatial.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Thomas Kenneth Mattingly II ",
         "originaire": "Chicago",
@@ -129,7 +116,6 @@
         "mission": "Première mission militaire de la navette spatiale  Discovery (STS-51-C).",
         "pays": "USA"
     },
-
     {
         "astronaute": "Loren James Shriver",
         "originaire": "Jefferson",
@@ -139,7 +125,6 @@
         "mission": "Première mission militaire de la navette spatiale  Discovery (STS-51-C).",
         "pays": "USA"
     },
-
     {
         "astronaute": "Ellison Shoji Onizuka",
         "originaire": "Kona",
@@ -149,7 +134,6 @@
         "mission": "Première mission militaire de la navette spatiale  Discovery (STS-51-C).",
         "pays": "USA"
     },
-
     {
         "astronaute": "James Frederick Buchli",
         "originaire": "New Rockford",
@@ -159,7 +143,6 @@
         "mission": "Première mission militaire de la navette spatiale  Discovery (STS-51-C).",
         "pays": "USA"
     },
-
     {
         "astronaute": "Gary Eugene Payton",
         "originaire": "Rock Island",
@@ -169,7 +152,6 @@
         "mission": "Première mission militaire de la navette spatiale  Discovery (STS-51-C).",
         "pays": "USA"
     },
-
     {
         "astronaute": "Karol Joseph Bobko",
         "originaire": "New York",
@@ -179,7 +161,6 @@
         "mission": "Mission Discovery STS-51-D.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Donald Edward Williams",
         "originaire": "Lafayette",
@@ -189,7 +170,6 @@
         "mission": "Mission Discovery STS-51-D.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Margaret Rhea Seddon",
         "originaire": "Murfeesboro",
@@ -199,7 +179,6 @@
         "mission": "Mission Discovery STS-51-D.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Jeffrey Alan Hoffman",
         "originaire": "New York",
@@ -209,7 +188,6 @@
         "mission": "Mission Discovery STS-51-D.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Stanley David Griggs",
         "originaire": "Portland",
@@ -219,7 +197,6 @@
         "mission": "Mission Discovery STS-51-D.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Charles David Walker",
         "originaire": "Bedford",
@@ -229,7 +206,6 @@
         "mission": "Mission Discovery STS-51-D.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Edwin Jake Garn",
         "originaire": "Richfield",
@@ -239,7 +215,6 @@
         "mission": "Mission Discovery STS-51-D.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Robert Franklin Overmyer",
         "originaire": "Duluth",
@@ -249,7 +224,6 @@
         "mission": "Challenger (STS-51-B)",
         "pays": "USA"
     },
-
     {
         "astronaute": "Frederick Drew Gregory",
         "originaire": "Washington",
@@ -259,7 +233,6 @@
         "mission": "Challenger (STS-51-B)",
         "pays": "USA"
     },
-
     {
         "astronaute": "Don Leslie Lind",
         "originaire": "Murray",
@@ -269,7 +242,6 @@
         "mission": "Challenger (STS-51-B)",
         "pays": "USA"
     },
-
     {
         "astronaute": "Norman Earl Thagard",
         "originaire": "Marianna",
@@ -279,7 +251,6 @@
         "mission": "Challenger (STS-51-B)",
         "pays": "USA"
     },
-
     {
         "astronaute": "William Edgar Thornton",
         "originaire": "Faison",
@@ -289,7 +260,6 @@
         "mission": "Challenger (STS-51-B)",
         "pays": "USA"
     },
-
     {
         "astronaute": "Lodewijk van den Berg",
         "originaire": "Sluiskil",
@@ -299,7 +269,6 @@
         "mission": "Challenger (STS-51-B)",
         "pays": "Netherlands"
     },
-
     {
         "astronaute": "Taylor Gun-Jin Wang",
         "originaire": "Yancheng",
@@ -309,7 +278,6 @@
         "mission": "Challenger (STS-51-B)",
         "pays": "USA"
     },
-
     {
         "astronaute": "Vladimir Alexandrovitch Djanibekov",
         "originaire": "Iskander",
@@ -319,7 +287,6 @@
         "mission": "Mission Soyouz T-13 (plus de 112 jours), lancée en direction de Saliout 7",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Viktor Petrovitch Savinykh",
         "originaire": "Berezniki",
@@ -329,7 +296,6 @@
         "mission": "Mission Soyouz T-13 (plus de 112 jours), lancée en direction de Saliout 7",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Daniel Charles Brandenstein",
         "originaire": "Watertown",
@@ -339,7 +305,6 @@
         "mission": "Al-Saud : premier Saoudien dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "John Oliver Creighton",
         "originaire": "Orange",
@@ -349,7 +314,6 @@
         "mission": "Al-Saud : premier Saoudien dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "Shannon Wells Lucid",
         "originaire": "Shangai",
@@ -359,7 +323,6 @@
         "mission": "Al-Saud : premier Saoudien dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "Steven Ray Nagel",
         "originaire": "Canton",
@@ -369,7 +332,6 @@
         "mission": "Al-Saud : premier Saoudien dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "John McCreary Fabian",
         "originaire": "Goosecreek",
@@ -379,7 +341,6 @@
         "mission": "Al-Saud : premier Saoudien dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "Patrick Baudry",
         "originaire": "Douala",
@@ -389,7 +350,6 @@
         "mission": "Al-Saud : premier Saoudien dans l'espace",
         "pays": "France"
     },
-
     {
         "astronaute": "Sultan ben Salmane ben Abdelaziz Al Saoud",
         "originaire": "Riyad",
@@ -399,7 +359,6 @@
         "mission": "Al-Saud : premier Saoudien dans l'espace",
         "pays": "Saudi Arabia"
     },
-
     {
         "astronaute": "Charles Gordon Fullerton",
         "originaire": "Rochester",
@@ -409,7 +368,6 @@
         "mission": "Vol STS-51-F",
         "pays": "USA"
     },
-
     {
         "astronaute": "Roy Dunbard Bridges Jr",
         "originaire": "Atlanta",
@@ -419,7 +377,6 @@
         "mission": "Vol STS-51-F",
         "pays": "USA"
     },
-
     {
         "astronaute": "Franklin Story Musgrave",
         "originaire": "Boston",
@@ -429,7 +386,6 @@
         "mission": "Vol STS-51-F",
         "pays": "USA"
     },
-
     {
         "astronaute": "Anthony Wayne England",
         "originaire": "Indianapolis",
@@ -439,7 +395,6 @@
         "mission": "Vol STS-51-F",
         "pays": "USA"
     },
-
     {
         "astronaute": "Karl Gordon Henize",
         "originaire": "Cincinnati",
@@ -449,7 +404,6 @@
         "mission": "Vol STS-51-F",
         "pays": "USA"
     },
-
     {
         "astronaute": "Loren Wilbur Acton",
         "originaire": "Lewistown",
@@ -459,7 +413,6 @@
         "mission": "Vol STS-51-F",
         "pays": "USA"
     },
-
     {
         "astronaute": "John-David Francis Bartoe",
         "originaire": "Abington",
@@ -469,7 +422,6 @@
         "mission": "Vol STS-51-F",
         "pays": "USA"
     },
-
     {
         "astronaute": "Joseph Henry Engle",
         "originaire": "Chapman",
@@ -479,7 +431,6 @@
         "mission": "Vol Discovery STS-51-I",
         "pays": "USA"
     },
-
     {
         "astronaute": "Richard Oswalt Covey",
         "originaire": "Fayetteville",
@@ -489,7 +440,6 @@
         "mission": "Vol Discovery STS-51-I",
         "pays": "USA"
     },
-
     {
         "astronaute": "James Dougal Adrianus van Hoften",
         "originaire": "Fresno",
@@ -499,7 +449,6 @@
         "mission": "Vol Discovery STS-51-I",
         "pays": "USA"
     },
-
     {
         "astronaute": "John Michael Lounge",
         "originaire": "Denver",
@@ -509,7 +458,6 @@
         "mission": "Vol Discovery STS-51-I",
         "pays": "USA"
     },
-
     {
         "astronaute": "William Frederick Fisher",
         "originaire": "Dallas",
@@ -519,7 +467,6 @@
         "mission": "Vol Discovery STS-51-I",
         "pays": "USA"
     },
-
     {
         "astronaute": "Vladimir Vladimirovitch Vassioutine",
         "originaire": "Kharkov",
@@ -529,7 +476,6 @@
         "mission": "Vol Soyouz T-14",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Alexandre Alexandrovitch Volkov",
         "originaire": "Gorlovka",
@@ -539,7 +485,6 @@
         "mission": "Vol Soyouz T-14",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Georgi Mikhaïlovitch Gretchko",
         "originaire": "Léningrad",
@@ -549,7 +494,6 @@
         "mission": "Vol Soyouz T-14",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Karol Joseph Bobko",
         "originaire": "New York",
@@ -559,7 +503,6 @@
         "mission": "Atlantis (STS-51-J)",
         "pays": "USA"
     },
-
     {
         "astronaute": "Ronald John Grabe",
         "originaire": "New York",
@@ -569,7 +512,6 @@
         "mission": "Atlantis (STS-51-J)",
         "pays": "USA"
     },
-
     {
         "astronaute": "David Carl Hilmers",
         "originaire": "Clinton",
@@ -579,7 +521,6 @@
         "mission": "Atlantis (STS-51-J)",
         "pays": "USA"
     },
-
     {
         "astronaute": "Robert Lee Stewart",
         "originaire": "Washington",
@@ -589,7 +530,6 @@
         "mission": "Atlantis (STS-51-J)",
         "pays": "USA"
     },
-
     {
         "astronaute": "William Arthur Pailes",
         "originaire": "Hackensack",
@@ -599,7 +539,6 @@
         "mission": "Atlantis (STS-51-J)",
         "pays": "USA"
     },
-
     {
         "astronaute": "Henry Warren Hartsfield Jr",
         "originaire": "Birmingham",
@@ -609,7 +548,6 @@
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "Steven Ray Nagel",
         "originaire": "Canton",
@@ -619,7 +557,6 @@
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "James Frederick Buchli",
         "originaire": "New Rockford",
@@ -629,7 +566,6 @@
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "Guion Steward Bluford Jr.",
         "originaire": "Philadelphie",
@@ -639,7 +575,6 @@
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "Bonnie Jeanne Dunbar",
         "originaire": "Sunnyside",
@@ -649,7 +584,6 @@
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "Reinhard Alfred Furrer",
         "originaire": "Berlin",
@@ -659,7 +593,6 @@
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
         "pays": "Germany"
     },
-
     {
         "astronaute": "Ernst Willi Messerschmid",
         "originaire": "Reutlingen",
@@ -669,7 +602,6 @@
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
         "pays": "Germany"
     },
-
     {
         "astronaute": "Wubbo Johannes Ockels",
         "originaire": "Almelo",
@@ -679,7 +611,6 @@
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
         "pays": "Netherlands"
     },
-
     {
         "astronaute": "Brewster Hopkinson Shaw Jr.",
         "originaire": "Cass City",
@@ -689,7 +620,6 @@
         "mission": "Neri Vela: premier Mexicain dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "Bryan Daniel O'connor",
         "originaire": "Orange",
@@ -699,7 +629,6 @@
         "mission": "Neri Vela: premier Mexicain dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "Mary Louise Cleave",
         "originaire": "Southampton",
@@ -709,7 +638,6 @@
         "mission": "Neri Vela: premier Mexicain dans l'espace",
         "pays": "England"
     },
-
     {
         "astronaute": "Sherwood Clark Spring",
         "originaire": "Hartford",
@@ -719,7 +647,6 @@
         "mission": "Neri Vela: premier Mexicain dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "Jerry Lynn Ross",
         "originaire": "Crown Point",
@@ -729,7 +656,6 @@
         "mission": "Neri Vela: premier Mexicain dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "Rodolfo Neri Vela",
         "originaire": "Chilpancingo",
@@ -739,7 +665,6 @@
         "mission": "Neri Vela: premier Mexicain dans l'espace",
         "pays": "Mexico"
     },
-
     {
         "astronaute": "Charles David Walker",
         "originaire": "Bedford",
@@ -749,7 +674,6 @@
         "mission": "Neri Vela: premier Mexicain dans l'espace",
         "pays": "USA"
     },
-
     {
         "astronaute": "James Donald Wetherbee",
         "originaire": "Flushing",
@@ -759,7 +683,6 @@
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
         "pays": "USA"
     },
-
     {
         "astronaute": "Eileen Marie Collins",
         "originaire": "Elmira",
@@ -769,7 +692,6 @@
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
         "pays": "USA"
     },
-
     {
         "astronaute": "Colin Michael Foale",
         "originaire": "Louth",
@@ -779,7 +701,6 @@
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
         "pays": "England"
     },
-
     {
         "astronaute": "Janice Elaine Ford Vos",
         "originaire": "Scottsdale",
@@ -789,7 +710,6 @@
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
         "pays": "USA"
     },
-
     {
         "astronaute": "Bernard Anthony Harris Jr.",
         "originaire": "Temple",
@@ -799,7 +719,6 @@
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
         "pays": "England"
     },
-
     {
         "astronaute": "Vladimir Gueorguievitch Titov",
         "originaire": "Sretensk",
@@ -809,7 +728,6 @@
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Stephen Scott Oswald",
         "originaire": "Seattle",
@@ -819,7 +737,6 @@
         "mission": "Ultraviolet astronomy studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "William George Gregory",
         "originaire": "Lockport",
@@ -829,7 +746,6 @@
         "mission": "Ultraviolet astronomy studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Tamara Elizabeth Jernigan",
         "originaire": "Chattanooga",
@@ -839,7 +755,6 @@
         "mission": "Ultraviolet astronomy studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "John Mace Grunsfeld",
         "originaire": "Chicago",
@@ -849,7 +764,6 @@
         "mission": "Ultraviolet astronomy studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Wendy Barrien Lawrence",
         "originaire": "Jacksonville",
@@ -859,7 +773,6 @@
         "mission": "Ultraviolet astronomy studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Ronald Anthony Parise",
         "originaire": "Warren",
@@ -869,7 +782,6 @@
         "mission": "Ultraviolet astronomy studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Samuel Thornton Durrance",
         "originaire": "Tallahassee",
@@ -879,7 +791,6 @@
         "mission": "Ultraviolet astronomy studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Norman Earl Thagard",
         "originaire": "Marianna",
@@ -889,7 +800,6 @@
         "mission": "Première visite d'un Américain sur Mir (Thagard).",
         "pays": "USA"
     },
-
     {
         "astronaute": "Vladimir Nikolaïevitch Dejourov",
         "originaire": "Yavas",
@@ -899,7 +809,6 @@
         "mission": "Première visite d'un Américain sur Mir (Thagard).",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Guennadi Mikhaïlovitch Strekalov",
         "originaire": "Mytichtchi",
@@ -909,7 +818,6 @@
         "mission": "Première visite d'un Américain sur Mir (Thagard).",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Robert Lee Gibson",
         "originaire": "Cooperstown",
@@ -919,7 +827,6 @@
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Charles Joseph Precourt",
         "originaire": "Waltham",
@@ -929,7 +836,6 @@
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Ellen Louise Baker",
         "originaire": "Fayetteville",
@@ -939,7 +845,6 @@
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Bonnie Jeanne Dunbar",
         "originaire": "Sunnyside",
@@ -949,7 +854,6 @@
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Gregory Jordan Harbaugh",
         "originaire": "Cleveland",
@@ -959,7 +863,6 @@
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Nikolaï Mikhaïlovitch Boudarine",
         "originaire": "Kiria",
@@ -969,7 +872,6 @@
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Terence Thomas Henricks",
         "originaire": "Bryan",
@@ -979,7 +881,6 @@
         "mission": "Deployment of 7th Tracking and Data Relay Satellite (TDRS). Biological and biomedical studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Kevin Richard Kregel",
         "originaire": "Amityville",
@@ -989,7 +890,6 @@
         "mission": "Deployment of 7th Tracking and Data Relay Satellite (TDRS). Biological and biomedical studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Nancy Jane Sherlock Currie",
         "originaire": "Wilmington",
@@ -999,7 +899,6 @@
         "mission": "Deployment of 7th Tracking and Data Relay Satellite (TDRS). Biological and biomedical studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Donald Alan Thomas",
         "originaire": "Cleveland",
@@ -1009,7 +908,6 @@
         "mission": "Deployment of 7th Tracking and Data Relay Satellite (TDRS). Biological and biomedical studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Mary Ellen Weber",
         "originaire": "Cleveland",
@@ -1019,7 +917,6 @@
         "mission": "Deployment of 7th Tracking and Data Relay Satellite (TDRS). Biological and biomedical studies.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Sergueï Vassilievitch Avdeïev",
         "originaire": "Tchapaïevsk",
@@ -1029,7 +926,6 @@
         "mission": "Rotation de l'équipage de Mir. première EVA par un cosmonaute allemand (Reiter).",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Iouri Pavlovitch Guidzenko",
         "originaire": "Yelanets",
@@ -1039,7 +935,6 @@
         "mission": "Rotation de l'équipage de Mir. première EVA par un cosmonaute allemand (Reiter).",
         "pays": "Ukraine"
     },
-
     {
         "astronaute": "Thomas Reiter",
         "originaire": "Francfort-Sur-Le-Main",
@@ -1049,18 +944,15 @@
         "mission": "Rotation de l'équipage de Mir. première EVA par un cosmonaute allemand (Reiter).",
         "pays": "Germany"
     },
-
     {
         "astronaute": "David Mathieson Walker",
         "originaire": "Colombus",
         "lat": "32.45317",
         "long": "-84.98777",
         "année": "1995",
-        "mission": "Solar observations. Wake Shield Facility-2 deployment."
-        ,
+        "mission": "Solar observations. Wake Shield Facility-2 deployment.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Kenneth Dale Cockrell",
         "originaire": "Austin",
@@ -1070,7 +962,6 @@
         "mission": "Solar observations. Wake Shield Facility-2 deployment.",
         "pays": "USA"
     },
-
     {
         "astronaute": "James Shelton Voss",
         "originaire": "Cordova",
@@ -1080,7 +971,6 @@
         "mission": "Solar observations. Wake Shield Facility-2 deployment.",
         "pays": "USA"
     },
-
     {
         "astronaute": "James Hansen Newman",
         "originaire": "États fédérés de Micronésie",
@@ -1090,7 +980,6 @@
         "mission": "Solar observations. Wake Shield Facility-2 deployment.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Michael Landon Gernhardt",
         "originaire": "Mansfield",
@@ -1100,7 +989,6 @@
         "mission": "Solar observations. Wake Shield Facility-2 deployment.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Kenneth Duane Bowersox",
         "originaire": "Portsmouth",
@@ -1110,7 +998,6 @@
         "mission": "Microgravity experiments.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Kent Vernon Rominger",
         "originaire": "Del Norte",
@@ -1120,7 +1007,6 @@
         "mission": "Microgravity experiments.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Kathryn Ryan Thornton",
         "originaire": "Montgomery",
@@ -1130,7 +1016,6 @@
         "mission": "Microgravity experiments.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Catherine Grace Coleman",
         "originaire": "Charleston, Caroline du Sud",
@@ -1140,7 +1025,6 @@
         "mission": "Microgravity experiments.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Michael Eladio López-Alegría",
         "originaire": "Madrid",
@@ -1150,7 +1034,6 @@
         "mission": "Microgravity experiments.",
         "pays": "Spain"
     },
-
     {
         "astronaute": "Frederick Weldon Leslie",
         "originaire": "Ancon",
@@ -1160,7 +1043,6 @@
         "mission": "Microgravity experiments.",
         "pays": "Panama"
     },
-
     {
         "astronaute": "Albert Sacco Jr.",
         "originaire": "Boston",
@@ -1170,7 +1052,6 @@
         "mission": "Microgravity experiments.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Kenneth Donald Cameron",
         "originaire": "Cleveland",
@@ -1180,7 +1061,6 @@
         "mission": "Second Shuttle-Mir docking. Delivery of Russian docking module and solar arrays.",
         "pays": "USA"
     },
-
     {
         "astronaute": "James Donald Halsell Jr.",
         "originaire": "West Monroe",
@@ -1190,7 +1070,6 @@
         "mission": "Second Shuttle-Mir docking. Delivery of Russian docking module and solar arrays.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Jerry Lynn Ross",
         "originaire": "Crown Point",
@@ -1200,7 +1079,6 @@
         "mission": "Second Shuttle-Mir docking. Delivery of Russian docking module and solar arrays.",
         "pays": "USA"
     },
-
     {
         "astronaute": "William Surles McArthur Jr.",
         "originaire": "Laurinburg",
@@ -1210,7 +1088,6 @@
         "mission": "Second Shuttle-Mir docking. Delivery of Russian docking module and solar arrays.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Chris Austin Hadfield",
         "originaire": "Sarnia",
@@ -1220,7 +1097,6 @@
         "mission": "Second Shuttle-Mir docking. Delivery of Russian docking module and solar arrays.",
         "pays": "Canada"
     },
-
     {
         "astronaute": "Kevin Kregel",
         "originaire": "Amityville",
@@ -1230,7 +1106,6 @@
         "mission": "Cartographie par radar de la surface terrestre.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Dominic L. Gorie",
         "originaire": "Lac Charles",
@@ -1240,7 +1115,6 @@
         "mission": "Cartographie par radar de la surface terrestre.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Janet Lynn Kavandi",
         "originaire": "Springfield",
@@ -1250,7 +1124,6 @@
         "mission": "Cartographie par radar de la surface terrestre.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Janice E. Voss",
         "originaire": "South Bend",
@@ -1260,7 +1133,6 @@
         "mission": "Cartographie par radar de la surface terrestre.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Mamoru Mōri",
         "originaire": "District de Yoichi",
@@ -1270,7 +1142,6 @@
         "mission": "Cartographie par radar de la surface terrestre.",
         "pays": "Japan"
     },
-
     {
         "astronaute": "Gerhard Thiele",
         "originaire": "Heidenheim an der Brenz",
@@ -1280,7 +1151,6 @@
         "mission": "Cartographie par radar de la surface terrestre.",
         "pays": "Germany"
     },
-
     {
         "astronaute": "Sergueï Zaliotine",
         "originaire": "Toula",
@@ -1290,7 +1160,6 @@
         "mission": "Réparations diverses de Mir. 39e et dernière mission vers la station russe.",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Alexandre Kaleri",
         "originaire": "Jurmala",
@@ -1300,7 +1169,6 @@
         "mission": "Réparations diverses de Mir. 39e et dernière mission vers la station russe.",
         "pays": "Russia"
     },
-
     {
         "astronaute": "James D. Halsell",
         "originaire": "West Monroe",
@@ -1310,7 +1178,6 @@
         "mission": "Construction et ravitaillement de l'ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Scott J. Horowitz",
         "originaire": "Philadelphie",
@@ -1320,7 +1187,6 @@
         "mission": "Construction et ravitaillement de l'ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Mary Weber",
         "originaire": "Cleveland",
@@ -1330,7 +1196,6 @@
         "mission": "Construction et ravitaillement de l'ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Jeffrey Williams",
         "originaire": "Superior",
@@ -1340,7 +1205,6 @@
         "mission": "Construction et ravitaillement de l'ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Susan J. Helms",
         "originaire": "Charlotte",
@@ -1350,7 +1214,6 @@
         "mission": "Construction et ravitaillement de l'ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Iouri Oussatchiov",
         "originaire": "Donetsk",
@@ -1360,7 +1223,6 @@
         "mission": "Construction et ravitaillement de l'ISS.",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Terrence W. Wilcutt",
         "originaire": "Russellville",
@@ -1370,7 +1232,6 @@
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Scott Douglas Altman",
         "originaire": "Lincoln",
@@ -1380,7 +1241,6 @@
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Daniel C. Burbank",
         "originaire": "Manchester",
@@ -1390,7 +1250,6 @@
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Edward Tsang Lu",
         "originaire": "Springfield",
@@ -1400,7 +1259,6 @@
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Richard Mastracchio",
         "originaire": "Waterbury",
@@ -1410,7 +1268,6 @@
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Iouri Malentchenko",
         "originaire": "Svitlovodsk",
@@ -1420,7 +1277,6 @@
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Boris Moroukov",
         "originaire": "Moscou",
@@ -1430,7 +1286,6 @@
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Brian Duffy",
         "originaire": "Boston",
@@ -1440,7 +1295,6 @@
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Pamela Melroy",
         "originaire": "Palo Alto",
@@ -1450,7 +1304,6 @@
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Kōichi Wakata",
         "originaire": "Ōmiya-ku",
@@ -1460,7 +1313,6 @@
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
         "pays": "Japan"
     },
-
     {
         "astronaute": "Leroy Chiao",
         "originaire": "Milwaukee",
@@ -1470,7 +1322,6 @@
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Peter Wisoff",
         "originaire": "Norfolk",
@@ -1480,7 +1331,6 @@
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Michael López-Alegría",
         "originaire": "Madrid",
@@ -1490,7 +1340,6 @@
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
         "pays": "Spain"
     },
-
     {
         "astronaute": "William S. McArthur, Jr.",
         "originaire": "Laurinburg",
@@ -1500,7 +1349,6 @@
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
         "pays": "USA"
     },
-
     {
         "astronaute": "William Shepherd",
         "originaire": "Oak Ridge",
@@ -1510,7 +1358,6 @@
         "mission": "Première expédition vers l’ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Iouri Guidzenko",
         "originaire": "Mykolaïv",
@@ -1520,7 +1367,6 @@
         "mission": "Première expédition vers l’ISS.",
         "pays": "Ukraine"
     },
-
     {
         "astronaute": "Sergueï Krikaliov",
         "originaire": "Léningrad",
@@ -1530,7 +1376,6 @@
         "mission": "Première expédition vers l’ISS.",
         "pays": "Russia"
     },
-
     {
         "astronaute": "Brent W. Jett",
         "originaire": "Pontiac",
@@ -1540,7 +1385,6 @@
         "mission": "Construction et ravitaillement de l’ISS ; livraison du premier ensemble de panneaux solaires.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Michael J. Bloomfield",
         "originaire": "Michigan",
@@ -1550,7 +1394,6 @@
         "mission": "Construction et ravitaillement de l’ISS ; livraison du premier ensemble de panneaux solaires.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Joseph R. Tanner",
         "originaire": "Danville",
@@ -1560,7 +1403,6 @@
         "mission": "Construction et ravitaillement de l’ISS ; livraison du premier ensemble de panneaux solaires.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Marc Garneau",
         "originaire": "Québec",
@@ -1570,7 +1412,6 @@
         "mission": "Construction et ravitaillement de l’ISS ; livraison du premier ensemble de panneaux solaires.",
         "pays": "Canada"
     },
-
     {
         "astronaute": "Carlos I. Noriega",
         "originaire": "Lima",
@@ -1580,8 +1421,6 @@
         "mission": "Construction et ravitaillement de l’ISS ; livraison du premier ensemble de panneaux solaires.",
         "pays": "Peru"
     },
-
-
     {
         "astronaute": "Roberto Vittori",
         "originaire": "Viterbe",
@@ -1591,7 +1430,6 @@
         "mission": "Rotation de l’équipage permanent de l’ISS",
         "pays": "Italy"
     },
-
     {
         "astronaute": "Sergueï Krikaliov",
         "originaire": "Léningrad",
@@ -1601,7 +1439,6 @@
         "mission": "Rotation de l’équipage permanent de l’ISS",
         "pays": "Russia"
     },
-
     {
         "astronaute": "John L. Phillips",
         "originaire": "Fort Belvoir",
@@ -1611,7 +1448,6 @@
         "mission": "Rotation de l’équipage permanent de l’ISS",
         "pays": "USA"
     },
-
     {
         "astronaute": "Eileen Collins",
         "originaire": "Elmira",
@@ -1621,7 +1457,6 @@
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "James M. Kelly",
         "originaire": "Burlington",
@@ -1631,7 +1466,6 @@
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Soichi Noguchi",
         "originaire": "Yokohama",
@@ -1641,7 +1475,6 @@
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
         "pays": "Japan"
     },
-
     {
         "astronaute": "Stephen K. Robinson",
         "originaire": "Sacramento",
@@ -1651,7 +1484,6 @@
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Andy Thomas",
         "originaire": "Adélaïde",
@@ -1661,7 +1493,6 @@
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Wendy B. Lawrence",
         "originaire": "Jacksonville",
@@ -1671,7 +1502,6 @@
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Charles Camarda",
         "originaire": "Queens",
@@ -1681,7 +1511,6 @@
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Gregory Olsen",
         "originaire": "Brooklyn",
@@ -1691,7 +1520,6 @@
         "mission": "Rotation de l’équipage permanent de l’ISS (Expédition 12). 3e touriste spatial.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Valeri Tokarev",
         "originaire": "Kapoustine",
@@ -1701,7 +1529,6 @@
         "mission": "Rotation de l’équipage permanent de l’ISS (Expédition 12). 3e touriste spatial.",
         "pays": "Russia"
     },
-
     {
         "astronaute": "William S. McArthur, Jr.",
         "originaire": "Laurinburg",
@@ -1711,7 +1538,6 @@
         "mission": "Rotation de l’équipage permanent de l’ISS (Expédition 12). 3e touriste spatial.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Fei Junlong",
         "originaire": "Suzhou",
@@ -1721,7 +1547,6 @@
         "mission": "Second vol habité chinois.",
         "pays": "Chine"
     },
-
     {
         "astronaute": "Nie Haisheng",
         "originaire": "Zaoyang",
@@ -1731,7 +1556,6 @@
         "mission": "Second vol habité chinois.",
         "pays": "Chine"
     },
-
     {
         "astronaute": "George D. Zamka",
         "originaire": "Jersey City",
@@ -1741,7 +1565,6 @@
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
         "pays": "USA"
     },
-
     {
         "astronaute": "Terry Virts",
         "originaire": "Baltimore",
@@ -1749,9 +1572,8 @@
         "long": "-76.63836095760959",
         "année": "2010",
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Kathryn P. Hire",
         "originaire": "Mobile",
@@ -1759,9 +1581,8 @@
         "long": "-88.16310470173063",
         "année": "2010",
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Stephen K. Robinson",
         "originaire": "Sacramento",
@@ -1769,9 +1590,8 @@
         "long": "-121.4621501072567",
         "année": "2010",
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Nicolas J.M. Patrick",
         "originaire": "Saltburn-by-the-Sea",
@@ -1779,9 +1599,8 @@
         "long": "-0.8956397770967587",
         "année": "2010",
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
-        "pays":"England"
+        "pays": "England"
     },
-
     {
         "astronaute": "Robert Behnken",
         "originaire": "Creve Coeur",
@@ -1789,9 +1608,8 @@
         "long": "-90.43870242716093",
         "année": "2010",
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Alexander Skvortsov",
         "originaire": "Chtchiolkovo",
@@ -1799,9 +1617,8 @@
         "long": "38.02308367380224",
         "année": "2010",
         "mission": "105e vol d'un vaisseau Soyouz depuis le premier en 1967",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Mikhaïl Kornienko",
         "originaire": "Syzran",
@@ -1809,9 +1626,8 @@
         "long": "48.40611140872546",
         "année": "2010",
         "mission": "105e vol d'un vaisseau Soyouz depuis le premier en 1967",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Tracy Caldwell",
         "originaire": "Arcadia",
@@ -1819,9 +1635,8 @@
         "long": "-118.03524678484192",
         "année": "2010",
         "mission": "105e vol d'un vaisseau Soyouz depuis le premier en 1967",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Alan G. Poindexter",
         "originaire": "Pensacola Beach",
@@ -1829,9 +1644,8 @@
         "long": "-87.06380075133721",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "James Dutton",
         "originaire": "Eugene",
@@ -1839,9 +1653,8 @@
         "long": "-123.12668103465434",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Richard Mastracchio",
         "originaire": "Waterbury",
@@ -1849,9 +1662,8 @@
         "long": "-73.07106514863202",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Clayton Anderson",
         "originaire": "Omaha",
@@ -1859,9 +1671,8 @@
         "long": "-96.05928700927312",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Dorothy Metcalf-Lindenburger",
         "originaire": "Colorado Springs",
@@ -1869,9 +1680,8 @@
         "long": "-104.79685743281392",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Stephanie Wilson",
         "originaire": "Boston",
@@ -1879,9 +1689,8 @@
         "long": "-71.08337829274213",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Kenneth Ham",
         "originaire": "Plainfield",
@@ -1889,9 +1698,8 @@
         "long": "-74.41242864996556",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Dominic A. Antonelli",
         "originaire": "Détroit",
@@ -1899,9 +1707,8 @@
         "long": "-83.11226220767745",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Stephen Gerard Bowen",
         "originaire": "Cohasset",
@@ -1909,9 +1716,8 @@
         "long": "-70.82437160969596",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Michael T. Good",
         "originaire": "Parma",
@@ -1919,9 +1725,8 @@
         "long": "-81.72961030639033",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Garrett Reisman",
         "originaire": "Morristown",
@@ -1929,9 +1734,8 @@
         "long": "-74.47795489611777",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Piers Sellers",
         "originaire": "Houston",
@@ -1939,9 +1743,8 @@
         "long": "-95.42331502339185",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Fiodor Iourtchikhine",
         "originaire": "Batoumi",
@@ -1949,9 +1752,8 @@
         "long": "41.61777457601304",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Shannon Walker",
         "originaire": "Houston",
@@ -1959,9 +1761,8 @@
         "long": "-95.42331502339185",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Douglas H. Wheelock",
         "originaire": "Binghamton",
@@ -1969,9 +1770,8 @@
         "long": "-75.92109654974843",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Alexandre Kaleri",
         "originaire": "Jurmala",
@@ -1979,9 +1779,8 @@
         "long": "23.568357872398924",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Latvia"
+        "pays": "Latvia"
     },
-
     {
         "astronaute": "Oleg Skripotchka",
         "originaire": "Nevinnomyssk",
@@ -1989,9 +1788,8 @@
         "long": "41.943462548256655",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Scott Kelly",
         "originaire": "Orange",
@@ -1999,9 +1797,8 @@
         "long": "-74.24254462828885",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Dmitri Kondratiev",
         "originaire": "Irkoutsk",
@@ -2009,9 +1806,8 @@
         "long": "104.2795084952804",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Catherine Coleman",
         "originaire": "Charleston",
@@ -2019,9 +1815,8 @@
         "long": "-80.07829361743318",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Paolo Nespoli",
         "originaire": "Milan",
@@ -2029,10 +1824,8 @@
         "long": "9.164675562963623",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Italy"
+        "pays": "Italy"
     },
-
-
     {
         "astronaute": "Guennadi Padalka",
         "originaire": "Krasnodar",
@@ -2040,9 +1833,8 @@
         "long": "39.03199573035415",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Mikhaïl Kornienko",
         "originaire": "Syzran",
@@ -2050,9 +1842,8 @@
         "long": "48.33195369868425",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Scott Kelly",
         "originaire": "Orange",
@@ -2060,9 +1851,8 @@
         "long": "-74.23447654409456",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Oleg Kononenko",
         "originaire": "Tchardjou",
@@ -2070,9 +1860,8 @@
         "long": "63.52800185092212",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Turkmenistan"
+        "pays": "Turkmenistan"
     },
-
     {
         "astronaute": "Kimiya Yui",
         "originaire": "Nagano",
@@ -2080,9 +1869,8 @@
         "long": "138.0870006784458",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Japan"
+        "pays": "Japan"
     },
-
     {
         "astronaute": "Kjell N. Lindgren",
         "originaire": "Taipei",
@@ -2090,9 +1878,8 @@
         "long": "121.54951492308068",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Taiwan"
+        "pays": "Taiwan"
     },
-
     {
         "astronaute": "Sergueï Volkov",
         "originaire": "Tchouhouïv",
@@ -2100,9 +1887,8 @@
         "long": "36.67214759994829",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Ukraine"
+        "pays": "Ukraine"
     },
-
     {
         "astronaute": "Andreas Mogensen",
         "originaire": "Copenhague",
@@ -2110,9 +1896,8 @@
         "long": "12.54437691929781",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Denmark"
+        "pays": "Denmark"
     },
-
     {
         "astronaute": "Aïdyn Aimbetov",
         "originaire": "Kolkhoze",
@@ -2120,9 +1905,8 @@
         "long": "68.41822822570214",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Kazakhstan"
+        "pays": "Kazakhstan"
     },
-
     {
         "astronaute": "Iouri Malentchenko",
         "originaire": "Svitlovodsk",
@@ -2130,9 +1914,8 @@
         "long": "33.209049648118054",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Ukraine"
+        "pays": "Ukraine"
     },
-
     {
         "astronaute": "Timothy Peake",
         "originaire": "Chichester",
@@ -2140,9 +1923,8 @@
         "long": "-0.7926143682857449",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"England"
+        "pays": "England"
     },
-
     {
         "astronaute": "Timothy Kopra",
         "originaire": "Austin",
@@ -2150,9 +1932,8 @@
         "long": "-97.74480679911997",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Anatoli Ivanichine",
         "originaire": "Irkoutsk",
@@ -2160,9 +1941,8 @@
         "long": "104.28859543046421",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Ivan Vagner",
         "originaire": "Severonejsk",
@@ -2170,9 +1950,8 @@
         "long": "61.58512607093227",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Christopher Cassidy",
         "originaire": "Salem",
@@ -2180,9 +1959,8 @@
         "long": "-70.91040762049757",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Douglas Hurley",
         "originaire": "Endicott",
@@ -2190,9 +1968,8 @@
         "long": "-76.06456040859555",
         "année": "2020",
         "mission": "Vol d’essai du Crew Dragon.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Robert Behnken",
         "originaire": "Creve Coeur",
@@ -2200,9 +1977,8 @@
         "long": "-90.4481438022819",
         "année": "2020",
         "mission": "Vol d’essai du Crew Dragon.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Sergueï Ryjikov",
         "originaire": "Bougoulma",
@@ -2210,9 +1986,8 @@
         "long": "52.7788628374749",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Sergueï Koud-Skvertchkov",
         "originaire": "Leninsk",
@@ -2220,9 +1995,8 @@
         "long": "45.2003853737912",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Kathleen Rubins",
         "originaire": "Farmington",
@@ -2230,9 +2004,8 @@
         "long": "-72.84864975531505",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Michael Hopkins",
         "originaire": "Lebanon",
@@ -2240,9 +2013,8 @@
         "long": "-92.66394811144669",
         "année": "2020",
         "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Victor J. Glover",
         "originaire": "Pomona",
@@ -2250,9 +2022,8 @@
         "long": "-117.76136197462252",
         "année": "2020",
         "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Soichi Noguchi",
         "originaire": "Yokohama",
@@ -2260,9 +2031,8 @@
         "long": "139.5723897694293",
         "année": "2020",
         "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS",
-        "pays":"Japan"
+        "pays": "Japan"
     },
-
     {
         "astronaute": "Shannon Walker",
         "originaire": "Houston",
@@ -2270,9 +2040,8 @@
         "long": "-95.43155476895197",
         "année": "2020",
         "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Nicole Mann",
         "originaire": "Penngrove",
@@ -2280,9 +2049,8 @@
         "long": "-122.66667090678077",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Josh A. Cassada",
         "originaire": "White Bear Lake",
@@ -2290,9 +2058,8 @@
         "long": "-93.02879606866432",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Kōichi Wakata",
         "originaire": "Omiya",
@@ -2301,7 +2068,6 @@
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS"
     },
-
     {
         "astronaute": "Anna Kikina",
         "originaire": "Novossibirsk",
@@ -2310,7 +2076,6 @@
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS"
     },
-
     {
         "astronaute": "Francisco Rubio",
         "originaire": "Los Angeles",
@@ -2318,10 +2083,8 @@
         "long": "-118.47900845269606",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
-
+        "pays": "USA"
     },
-
     {
         "astronaute": "Dimitri Peteline",
         "originaire": "Kostanaï",
@@ -2329,9 +2092,8 @@
         "long": "63.59214811906321",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Ukraine"
+        "pays": "Ukraine"
     },
-
     {
         "astronaute": "Sergueï Prokopiev",
         "originaire": "Sverdlovsk",
@@ -2339,9 +2101,8 @@
         "long": "60.86939062272",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Steve Young",
         "originaire": "Salt Lake City",
@@ -2349,9 +2110,8 @@
         "long": "-111.93148257280374",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Sara Sabry",
         "originaire": "Egypte",
@@ -2359,9 +2119,8 @@
         "long": "31.29384740657613",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays":"Egypt"
+        "pays": "Egypt"
     },
-
     {
         "astronaute": "Clint Kelly III",
         "originaire": "Amérique",
@@ -2369,9 +2128,8 @@
         "long": "-104.53526696134904",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Vanessa O'Brien",
         "originaire": "La Grosse Pointe",
@@ -2379,9 +2137,8 @@
         "long": "-82.90964272412705",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays":"England"
+        "pays": "England"
     },
-
     {
         "astronaute": "Mário Ferreira",
         "originaire": "Matosinhos",
@@ -2389,9 +2146,8 @@
         "long": "-8.695803817903453",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays":"Portugal"
+        "pays": "Portugal"
     },
-
     {
         "astronaute": "Coby Cotton",
         "originaire": "The Woodlands",
@@ -2399,9 +2155,8 @@
         "long": "-95.53109964805869",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Chen Dong",
         "originaire": "Luoyang",
@@ -2409,9 +2164,8 @@
         "long": "112.44536330597664",
         "année": "2022",
         "mission": "Troisième mission habitée vers la SSC.",
-        "pays":"China"
+        "pays": "China"
     },
-
     {
         "astronaute": "Liu Yang",
         "originaire": "Linzhou",
@@ -2419,9 +2173,8 @@
         "long": "113.94321877603645",
         "année": "2022",
         "mission": "Troisième mission habitée vers la SSC.",
-        "pays":"China"
+        "pays": "China"
     },
-
     {
         "astronaute": "Cai Xuzhe",
         "originaire": "Shenzhou",
@@ -2429,9 +2182,8 @@
         "long": "115.5899219570005",
         "année": "2022",
         "mission": "Troisième mission habitée vers la SSC.",
-        "pays":"China"
+        "pays": "China"
     },
-
     {
         "astronaute": "Evan Dick",
         "originaire": "Van Horn",
@@ -2439,9 +2191,8 @@
         "long": "-104.8348644643359",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Katya Echazarreta",
         "originaire": "Guadalajara",
@@ -2449,9 +2200,8 @@
         "long": "-103.3474328328745",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays":"Mexico"
+        "pays": "Mexico"
     },
-
     {
         "astronaute": "Hamish Harding",
         "originaire": "L'Angleterre",
@@ -2459,9 +2209,8 @@
         "long": "-0.13612281970156687",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays":"England"
+        "pays": "England"
     },
-
     {
         "astronaute": "Victor Correa Hespanha",
         "originaire": "Alfenas",
@@ -2469,9 +2218,8 @@
         "long": "-45.95450245000439",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays":"Brazil"
+        "pays": "Brazil"
     },
-
     {
         "astronaute": "Jaison Robinson",
         "originaire": "l'Amérique",
@@ -2479,9 +2227,8 @@
         "long": "-99.08604856424722",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Victor Vescovo",
         "originaire": "Texas",
@@ -2489,9 +2236,8 @@
         "long": "-100.3982525759648",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Kjell N. Lindgren",
         "originaire": "Taipei",
@@ -2499,9 +2245,8 @@
         "long": "121.54951492308068",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Taiwan"
+        "pays": "Taiwan"
     },
-
     {
         "astronaute": "Robert Hines",
         "originaire": "Fayetteville",
@@ -2509,9 +2254,8 @@
         "long": "-78.98932233710394",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Samantha Cristoforetti",
         "originaire": "Milan",
@@ -2519,9 +2263,8 @@
         "long": "9.139269680819877",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Italy"
+        "pays": "Italy"
     },
-
     {
         "astronaute": "Jessica Watkins",
         "originaire": "Gaithersburg",
@@ -2529,9 +2272,8 @@
         "long": "-77.23017174132642",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Michael López-Alegría",
         "originaire": "Madrid",
@@ -2539,9 +2281,8 @@
         "long": "-3.704267134999961",
         "année": "2022",
         "mission": "Première mission d'Axiom Space.",
-        "pays":"Spain"
+        "pays": "Spain"
     },
-
     {
         "astronaute": "Larry Connor",
         "originaire": "Albany",
@@ -2549,9 +2290,8 @@
         "long": "-73.80278730896487",
         "année": "2022",
         "mission": "Première mission d'Axiom Space.",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Eytan Stibbe",
         "originaire": "Haïfa",
@@ -2559,9 +2299,8 @@
         "long": "34.99445693941857",
         "année": "2022",
         "mission": "Première mission d'Axiom Space.",
-        "pays":"Israel"
+        "pays": "Israel"
     },
-
     {
         "astronaute": "Mark Pathy",
         "originaire": "Canada",
@@ -2569,9 +2308,8 @@
         "long": "-111.43790637044916",
         "année": "2022",
         "mission": "Première mission d'Axiom Space.",
-        "pays":"Canada"
+        "pays": "Canada"
     },
-
     {
         "astronaute": "Marty Allen",
         "originaire": "Coatessville",
@@ -2579,9 +2317,8 @@
         "long": "-75.82488406027005",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Sharon Hagle",
         "originaire": "Orlando",
@@ -2589,9 +2326,8 @@
         "long": "-81.26354083566038",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Marc Hagle",
         "originaire": "Orlando",
@@ -2599,9 +2335,8 @@
         "long": "-81.26354083566038",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Gary Lai",
         "originaire": "Seattle",
@@ -2609,9 +2344,8 @@
         "long": "-81.30401350761332",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Jim Kitchen",
         "originaire": "La Caroline du Nord",
@@ -2619,19 +2353,17 @@
         "long": "-78.88462386319442",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
-        "astronaute": "George Nield",   
+        "astronaute": "George Nield",
         "originaire": "Stanford",
         "lat": "37.423545333376694",
         "long": "-122.19786096881857",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays":"USA"
+        "pays": "USA"
     },
-
     {
         "astronaute": "Denis Matveïev",
         "originaire": "Saint-Pétersbourg",
@@ -2639,9 +2371,8 @@
         "long": "30.237380308947927",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Russia"
+        "pays": "Russia"
     },
-
     {
         "astronaute": "Sergueï Korsakov",
         "originaire": "Frounzé",
@@ -2649,7 +2380,6 @@
         "long": "30.366892955623",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays":"Kyrgyzstan"
+        "pays": "Kyrgyzstan"
     }
-
 ]

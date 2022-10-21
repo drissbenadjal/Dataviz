@@ -12,7 +12,6 @@ function initialize() {
                     scale: p.scale
                 }
             });
-            console.log(pays)
         });
 
     btn1965 = document.getElementById("btn1965");
@@ -85,6 +84,7 @@ function initialize() {
                         element.setAttribute('data-date', e.année);
                         element.setAttribute('data-origine', e.originaire);
                         element.setAttribute('data-pays', e.pays);
+                        element.style.backgroundImage = "url('./images/point_" + e.color + ".png')";
                         // marker.bindPopup(e.astronaute, { maxWidth: 200, closeButton: true});
                         markers.push(marker)
                     }
