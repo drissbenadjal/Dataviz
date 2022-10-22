@@ -6,7 +6,8 @@
         "long": "104.87310",
         "année": "1965",
         "mission": "Première sortie dans l'espace.",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Pavel Ivanovitch Beliaïev",
@@ -15,7 +16,8 @@
         "long": "44.21846",
         "année": "1965",
         "mission": "Première sortie dans l'espace.",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Virgil Ivan Grissom",
@@ -24,7 +26,8 @@
         "long": "-86.47382",
         "année": "1965",
         "mission": "Première personne à réussir des manœuvres en orbite.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "John Watts Young",
@@ -33,7 +36,8 @@
         "long": "-122.41843",
         "année": "1965",
         "mission": "Première personne à réussir des manœuvres en orbite.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "James Alton McDivitt",
@@ -42,7 +46,8 @@
         "long": "-87.63238",
         "année": "1965",
         "mission": "Première sortie dans l'espace pour un Américain.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Edward Higgins White II",
@@ -51,7 +56,8 @@
         "long": "-98.49464",
         "année": "1965",
         "mission": "Première sortie dans l'espace pour un Américain.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Leroy Gordon Cooper Jr.",
@@ -60,7 +66,8 @@
         "long": "-96.92411",
         "année": "1965",
         "mission": "Premier vol spatial d'une semaine.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Charles Conrad Jr.",
@@ -69,7 +76,8 @@
         "long": "-75.16517",
         "année": "1965",
         "mission": "Premier vol spatial d'une semaine.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Frank Borman",
@@ -78,7 +86,8 @@
         "long": "-87.33717",
         "année": "1965",
         "mission": "Premier vol de deux semaines.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "James Arthur Lovel Jr.",
@@ -87,7 +96,8 @@
         "long": "-81.69325",
         "année": "1965",
         "mission": "Premier vol de deux semaines.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Walter Marty Schirra Jr.",
@@ -96,7 +106,8 @@
         "long": "-74.04401",
         "année": "1965",
         "mission": "Premier rendez-vous spatial.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Thomas Patten Stafford",
@@ -105,7 +116,8 @@
         "long": "-98.71334",
         "année": "1965",
         "mission": "Premier rendez-vous spatial.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Thomas Kenneth Mattingly II ",
@@ -114,7 +126,8 @@
         "long": "-87.63238",
         "année": "1985",
         "mission": "Première mission militaire de la navette spatiale  Discovery (STS-51-C).",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Loren James Shriver",
@@ -123,7 +136,8 @@
         "long": "-97.79119",
         "année": "1985",
         "mission": "Première mission militaire de la navette spatiale  Discovery (STS-51-C).",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Ellison Shoji Onizuka",
@@ -132,7 +146,8 @@
         "long": "-155.99366",
         "année": "1985",
         "mission": "Première mission militaire de la navette spatiale  Discovery (STS-51-C).",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "James Frederick Buchli",
@@ -141,7 +156,8 @@
         "long": "-99.12540",
         "année": "1985",
         "mission": "Première mission militaire de la navette spatiale  Discovery (STS-51-C).",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Gary Eugene Payton",
@@ -150,7 +166,8 @@
         "long": "-90.57779",
         "année": "1985",
         "mission": "Première mission militaire de la navette spatiale  Discovery (STS-51-C).",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Karol Joseph Bobko",
@@ -159,7 +176,8 @@
         "long": "-74.00720",
         "année": "1985",
         "mission": "Mission Discovery STS-51-D.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Donald Edward Williams",
@@ -168,7 +186,8 @@
         "long": "-86.89098",
         "année": "1985",
         "mission": "Mission Discovery STS-51-D.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Margaret Rhea Seddon",
@@ -177,7 +196,8 @@
         "long": "-86.39282",
         "année": "1985",
         "mission": "Mission Discovery STS-51-D.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Jeffrey Alan Hoffman",
@@ -186,7 +206,8 @@
         "long": "-74.00720",
         "année": "1985",
         "mission": "Mission Discovery STS-51-D.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Stanley David Griggs",
@@ -195,7 +216,8 @@
         "long": "-122.67948",
         "année": "1985",
         "mission": "Mission Discovery STS-51-D.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Charles David Walker",
@@ -204,7 +226,8 @@
         "long": "-86.48594",
         "année": "1985",
         "mission": "Mission Discovery STS-51-D.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Edwin Jake Garn",
@@ -213,7 +236,8 @@
         "long": "-112.08372",
         "année": "1985",
         "mission": "Mission Discovery STS-51-D.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Robert Franklin Overmyer",
@@ -222,7 +246,8 @@
         "long": "-92.10469",
         "année": "1985",
         "mission": "Challenger (STS-51-B)",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Frederick Drew Gregory",
@@ -231,7 +256,8 @@
         "long": "-77.03128",
         "année": "1985",
         "mission": "Challenger (STS-51-B)",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Don Leslie Lind",
@@ -240,7 +266,8 @@
         "long": "-111.88822",
         "année": "1985",
         "mission": "Challenger (STS-51-B)",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Norman Earl Thagard",
@@ -249,7 +276,8 @@
         "long": "-85.22681",
         "année": "1985",
         "mission": "Challenger (STS-51-B)",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "William Edgar Thornton",
@@ -258,7 +286,8 @@
         "long": "-78.13570",
         "année": "1985",
         "mission": "Challenger (STS-51-B)",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Lodewijk van den Berg",
@@ -267,7 +296,8 @@
         "long": "3.8233640345208397",
         "année": "1985",
         "mission": "Challenger (STS-51-B)",
-        "pays": "Netherlands"
+        "pays": "Netherlands",
+        "color" :"jaune"
     },
     {
         "astronaute": "Taylor Gun-Jin Wang",
@@ -276,7 +306,8 @@
         "long": "120.13448",
         "année": "1985",
         "mission": "Challenger (STS-51-B)",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Vladimir Alexandrovitch Djanibekov",
@@ -285,7 +316,8 @@
         "long": "63.17989",
         "année": "1985",
         "mission": "Mission Soyouz T-13 (plus de 112 jours), lancée en direction de Saliout 7",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Viktor Petrovitch Savinykh",
@@ -294,7 +326,8 @@
         "long": "56.79244",
         "année": "1985",
         "mission": "Mission Soyouz T-13 (plus de 112 jours), lancée en direction de Saliout 7",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Daniel Charles Brandenstein",
@@ -303,7 +336,8 @@
         "long": "-88.72299",
         "année": "1985",
         "mission": "Al-Saud : premier Saoudien dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "John Oliver Creighton",
@@ -312,7 +346,8 @@
         "long": "-93.73704",
         "année": "1985",
         "mission": "Al-Saud : premier Saoudien dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Shannon Wells Lucid",
@@ -321,7 +356,8 @@
         "long": "121.46239",
         "année": "1985",
         "mission": "Al-Saud : premier Saoudien dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Steven Ray Nagel",
@@ -330,7 +366,8 @@
         "long": "-90.03505",
         "année": "1985",
         "mission": "Al-Saud : premier Saoudien dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "John McCreary Fabian",
@@ -339,7 +376,8 @@
         "long": "-80.03507",
         "année": "1985",
         "mission": "Al-Saud : premier Saoudien dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Patrick Baudry",
@@ -348,7 +386,8 @@
         "long": "9.75482",
         "année": "1985",
         "mission": "Al-Saud : premier Saoudien dans l'espace",
-        "pays": "France"
+        "pays": "France",
+        "color" :"orange"
     },
     {
         "astronaute": "Sultan ben Salmane ben Abdelaziz Al Saoud",
@@ -357,7 +396,8 @@
         "long": "46.91020447885939",
         "année": "1985",
         "mission": "Al-Saud : premier Saoudien dans l'espace",
-        "pays": "Saudi Arabia"
+        "pays": "Saudi Arabia",
+        "color" :"jaune"
     },
     {
         "astronaute": "Charles Gordon Fullerton",
@@ -366,7 +406,8 @@
         "long": "-77.61476",
         "année": "1985",
         "mission": "Vol STS-51-F",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Roy Dunbard Bridges Jr",
@@ -375,7 +416,8 @@
         "long": "-84.39086",
         "année": "1985",
         "mission": "Vol STS-51-F",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Franklin Story Musgrave",
@@ -384,7 +426,8 @@
         "long": "-71.05728",
         "année": "1985",
         "mission": "Vol STS-51-F",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Anthony Wayne England",
@@ -393,7 +436,8 @@
         "long": "-86.15439",
         "année": "1985",
         "mission": "Vol STS-51-F",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Karl Gordon Henize",
@@ -402,7 +446,8 @@
         "long": "-84.52035",
         "année": "1985",
         "mission": "Vol STS-51-F",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Loren Wilbur Acton",
@@ -411,7 +456,8 @@
         "long": "-109.42494",
         "année": "1985",
         "mission": "Vol STS-51-F",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "John-David Francis Bartoe",
@@ -420,7 +466,8 @@
         "long": "-75.12444167224669",
         "année": "1985",
         "mission": "Vol STS-51-F",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Joseph Henry Engle",
@@ -429,7 +476,8 @@
         "long": "-75.12114",
         "année": "1985",
         "mission": "Vol Discovery STS-51-I",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Richard Oswalt Covey",
@@ -438,7 +486,8 @@
         "long": "-78.88334",
         "année": "1985",
         "mission": "Vol Discovery STS-51-I",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "James Dougal Adrianus van Hoften",
@@ -447,7 +496,8 @@
         "long": "-119.78498",
         "année": "1985",
         "mission": "Vol Discovery STS-51-I",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "John Michael Lounge",
@@ -456,7 +506,8 @@
         "long": "-104.99030",
         "année": "1985",
         "mission": "Vol Discovery STS-51-I",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "William Frederick Fisher",
@@ -465,7 +516,8 @@
         "long": "-96.79560",
         "année": "1985",
         "mission": "Vol Discovery STS-51-I",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Vladimir Vladimirovitch Vassioutine",
@@ -474,7 +526,8 @@
         "long": "36.22436",
         "année": "1985",
         "mission": "Vol Soyouz T-14",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Alexandre Alexandrovitch Volkov",
@@ -483,7 +536,8 @@
         "long": "35.23333",
         "année": "1985",
         "mission": "Vol Soyouz T-14",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Georgi Mikhaïlovitch Gretchko",
@@ -492,7 +546,8 @@
         "long": "30.11832",
         "année": "1985",
         "mission": "Vol Soyouz T-14",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Karol Joseph Bobko",
@@ -501,7 +556,8 @@
         "long": "-74.00720",
         "année": "1985",
         "mission": "Atlantis (STS-51-J)",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Ronald John Grabe",
@@ -510,7 +566,8 @@
         "long": "-74.00720",
         "année": "1985",
         "mission": "Atlantis (STS-51-J)",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "David Carl Hilmers",
@@ -519,7 +576,8 @@
         "long": "-82.93069",
         "année": "1985",
         "mission": "Atlantis (STS-51-J)",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Robert Lee Stewart",
@@ -528,7 +586,8 @@
         "long": "-77.03128",
         "année": "1985",
         "mission": "Atlantis (STS-51-J)",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "William Arthur Pailes",
@@ -537,7 +596,8 @@
         "long": "-74.04401",
         "année": "1985",
         "mission": "Atlantis (STS-51-J)",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Henry Warren Hartsfield Jr",
@@ -546,7 +606,8 @@
         "long": "-83.21554",
         "année": "1985",
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Steven Ray Nagel",
@@ -555,7 +616,8 @@
         "long": "-90.03505",
         "année": "1985",
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "James Frederick Buchli",
@@ -564,7 +626,8 @@
         "long": "-99.12540",
         "année": "1985",
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Guion Steward Bluford Jr.",
@@ -573,7 +636,8 @@
         "long": "-75.16517",
         "année": "1985",
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Bonnie Jeanne Dunbar",
@@ -582,7 +646,8 @@
         "long": "-120.00904",
         "année": "1985",
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Reinhard Alfred Furrer",
@@ -591,7 +656,8 @@
         "long": "13.40802",
         "année": "1985",
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
-        "pays": "Germany"
+        "pays": "Germany",
+        "color" :"orange"
     },
     {
         "astronaute": "Ernst Willi Messerschmid",
@@ -600,7 +666,8 @@
         "long": "9.21071",
         "année": "1985",
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
-        "pays": "Germany"
+        "pays": "Germany",
+        "color" :"orange"
     },
     {
         "astronaute": "Wubbo Johannes Ockels",
@@ -609,7 +676,8 @@
         "long": "6.65873",
         "année": "1985",
         "mission": "Premier équipage à huit. Ockels : premier Néerlandais dans l'espace",
-        "pays": "Netherlands"
+        "pays": "Netherlands",
+        "color" :"jaune"
     },
     {
         "astronaute": "Brewster Hopkinson Shaw Jr.",
@@ -618,7 +686,8 @@
         "long": "-83.17449",
         "année": "1985",
         "mission": "Neri Vela: premier Mexicain dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Bryan Daniel O'connor",
@@ -627,7 +696,8 @@
         "long": "-117.85036",
         "année": "1985",
         "mission": "Neri Vela: premier Mexicain dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Mary Louise Cleave",
@@ -636,7 +706,8 @@
         "long": "1.40621",
         "année": "1985",
         "mission": "Neri Vela: premier Mexicain dans l'espace",
-        "pays": "England"
+        "pays": "England",
+        "color" :"orange"
     },
     {
         "astronaute": "Sherwood Clark Spring",
@@ -645,7 +716,8 @@
         "long": "-72.67430",
         "année": "1985",
         "mission": "Neri Vela: premier Mexicain dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Jerry Lynn Ross",
@@ -654,7 +726,8 @@
         "long": "-87.36320",
         "année": "1985",
         "mission": "Neri Vela: premier Mexicain dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Rodolfo Neri Vela",
@@ -663,7 +736,8 @@
         "long": "-99.49923",
         "année": "1985",
         "mission": "Neri Vela: premier Mexicain dans l'espace",
-        "pays": "Mexico"
+        "pays": "Mexico",
+        "color" :"jaune"
     },
     {
         "astronaute": "Charles David Walker",
@@ -672,7 +746,8 @@
         "long": "-86.48594",
         "année": "1985",
         "mission": "Neri Vela: premier Mexicain dans l'espace",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "James Donald Wetherbee",
@@ -681,7 +756,8 @@
         "long": "-83.84129",
         "année": "1995",
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Eileen Marie Collins",
@@ -690,7 +766,8 @@
         "long": "-76.80297",
         "année": "1995",
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Colin Michael Foale",
@@ -699,7 +776,8 @@
         "long": "0.02663",
         "année": "1995",
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
-        "pays": "England"
+        "pays": "England",
+        "color" :"orange"
     },
     {
         "astronaute": "Janice Elaine Ford Vos",
@@ -708,7 +786,8 @@
         "long": "-111.91972",
         "année": "1995",
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Bernard Anthony Harris Jr.",
@@ -717,7 +796,8 @@
         "long": "97.34101",
         "année": "1995",
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
-        "pays": "England"
+        "pays": "England",
+        "color" :"orange"
     },
     {
         "astronaute": "Vladimir Gueorguievitch Titov",
@@ -726,7 +806,8 @@
         "long": "117.71930",
         "année": "1995",
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Stephen Scott Oswald",
@@ -735,7 +816,8 @@
         "long": "-122.33077",
         "année": "1995",
         "mission": "Ultraviolet astronomy studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "William George Gregory",
@@ -744,7 +826,8 @@
         "long": "-78.69496",
         "année": "1995",
         "mission": "Ultraviolet astronomy studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Tamara Elizabeth Jernigan",
@@ -753,7 +836,8 @@
         "long": "-85.30761",
         "année": "1995",
         "mission": "Ultraviolet astronomy studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "John Mace Grunsfeld",
@@ -762,7 +846,8 @@
         "long": "-87.63238",
         "année": "1995",
         "mission": "Ultraviolet astronomy studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Wendy Barrien Lawrence",
@@ -771,7 +856,8 @@
         "long": "-81.65969",
         "année": "1995",
         "mission": "Ultraviolet astronomy studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Ronald Anthony Parise",
@@ -780,7 +866,8 @@
         "long": "-80.82276",
         "année": "1995",
         "mission": "Ultraviolet astronomy studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Samuel Thornton Durrance",
@@ -789,7 +876,8 @@
         "long": "-84.28200",
         "année": "1995",
         "mission": "Ultraviolet astronomy studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Norman Earl Thagard",
@@ -798,7 +886,8 @@
         "long": "-85.22681",
         "année": "1995",
         "mission": "Première visite d'un Américain sur Mir (Thagard).",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Vladimir Nikolaïevitch Dejourov",
@@ -807,7 +896,8 @@
         "long": "43.03854",
         "année": "1995",
         "mission": "Première visite d'un Américain sur Mir (Thagard).",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Guennadi Mikhaïlovitch Strekalov",
@@ -816,7 +906,8 @@
         "long": "37.74317",
         "année": "1995",
         "mission": "Première visite d'un Américain sur Mir (Thagard).",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Robert Lee Gibson",
@@ -825,7 +916,8 @@
         "long": "-74.92241",
         "année": "1995",
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Charles Joseph Precourt",
@@ -834,7 +926,8 @@
         "long": "-71.23539",
         "année": "1995",
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Ellen Louise Baker",
@@ -843,7 +936,8 @@
         "long": "-78.88334",
         "année": "1995",
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Bonnie Jeanne Dunbar",
@@ -852,7 +946,8 @@
         "long": "-120.00904",
         "année": "1995",
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Gregory Jordan Harbaugh",
@@ -861,7 +956,8 @@
         "long": "-81.69325",
         "année": "1995",
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Nikolaï Mikhaïlovitch Boudarine",
@@ -870,7 +966,8 @@
         "long": "84.53081",
         "année": "1995",
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Terence Thomas Henricks",
@@ -879,7 +976,8 @@
         "long": "-84.53081",
         "année": "1995",
         "mission": "Deployment of 7th Tracking and Data Relay Satellite (TDRS). Biological and biomedical studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Kevin Richard Kregel",
@@ -888,7 +986,8 @@
         "long": "-73.41866",
         "année": "1995",
         "mission": "Deployment of 7th Tracking and Data Relay Satellite (TDRS). Biological and biomedical studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Nancy Jane Sherlock Currie",
@@ -897,7 +996,8 @@
         "long": "-77.94622",
         "année": "1995",
         "mission": "Deployment of 7th Tracking and Data Relay Satellite (TDRS). Biological and biomedical studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Donald Alan Thomas",
@@ -906,7 +1006,8 @@
         "long": "-81.69325",
         "année": "1995",
         "mission": "Deployment of 7th Tracking and Data Relay Satellite (TDRS). Biological and biomedical studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Mary Ellen Weber",
@@ -915,7 +1016,8 @@
         "long": "-81.69325",
         "année": "1995",
         "mission": "Deployment of 7th Tracking and Data Relay Satellite (TDRS). Biological and biomedical studies.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Sergueï Vassilievitch Avdeïev",
@@ -924,7 +1026,8 @@
         "long": "49.68904",
         "année": "1995",
         "mission": "Rotation de l'équipage de Mir. première EVA par un cosmonaute allemand (Reiter).",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Iouri Pavlovitch Guidzenko",
@@ -933,7 +1036,8 @@
         "long": "31.85290",
         "année": "1995",
         "mission": "Rotation de l'équipage de Mir. première EVA par un cosmonaute allemand (Reiter).",
-        "pays": "Ukraine"
+        "pays": "Ukraine",
+        "color" :"jaune"
     },
     {
         "astronaute": "Thomas Reiter",
@@ -942,7 +1046,8 @@
         "long": "8.68017",
         "année": "1995",
         "mission": "Rotation de l'équipage de Mir. première EVA par un cosmonaute allemand (Reiter).",
-        "pays": "Germany"
+        "pays": "Germany",
+        "color" :"orange"
     },
     {
         "astronaute": "David Mathieson Walker",
@@ -951,7 +1056,8 @@
         "long": "-84.98777",
         "année": "1995",
         "mission": "Solar observations. Wake Shield Facility-2 deployment.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Kenneth Dale Cockrell",
@@ -960,7 +1066,8 @@
         "long": "-97.74750",
         "année": "1995",
         "mission": "Solar observations. Wake Shield Facility-2 deployment.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "James Shelton Voss",
@@ -969,7 +1076,8 @@
         "long": "-145.76524",
         "année": "1995",
         "mission": "Solar observations. Wake Shield Facility-2 deployment.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "James Hansen Newman",
@@ -978,7 +1086,8 @@
         "long": "-158.24348",
         "année": "1995",
         "mission": "Solar observations. Wake Shield Facility-2 deployment.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Michael Landon Gernhardt",
@@ -987,7 +1096,8 @@
         "long": "-82.51406",
         "année": "1995",
         "mission": "Solar observations. Wake Shield Facility-2 deployment.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Kenneth Duane Bowersox",
@@ -996,7 +1106,8 @@
         "long": "-70.75468",
         "année": "1995",
         "mission": "Microgravity experiments.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Kent Vernon Rominger",
@@ -1005,7 +1116,8 @@
         "long": "-106.35261",
         "année": "1995",
         "mission": "Microgravity experiments.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Kathryn Ryan Thornton",
@@ -1014,7 +1126,8 @@
         "long": "-86.30757",
         "année": "1995",
         "mission": "Microgravity experiments.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Catherine Grace Coleman",
@@ -1023,7 +1136,8 @@
         "long": "-79.93077",
         "année": "1995",
         "mission": "Microgravity experiments.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Michael Eladio López-Alegría",
@@ -1032,7 +1146,8 @@
         "long": "3.69252",
         "année": "1995",
         "mission": "Microgravity experiments.",
-        "pays": "Spain"
+        "pays": "Spain",
+        "color" :"jaune"
     },
     {
         "astronaute": "Frederick Weldon Leslie",
@@ -1041,7 +1156,8 @@
         "long": "-79.54415",
         "année": "1995",
         "mission": "Microgravity experiments.",
-        "pays": "Panama"
+        "pays": "Panama",
+        "color" :"jaune"
     },
     {
         "astronaute": "Albert Sacco Jr.",
@@ -1050,7 +1166,8 @@
         "long": "-71.05728",
         "année": "1995",
         "mission": "Microgravity experiments.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Kenneth Donald Cameron",
@@ -1059,7 +1176,8 @@
         "long": "-81.69325",
         "année": "1995",
         "mission": "Second Shuttle-Mir docking. Delivery of Russian docking module and solar arrays.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "James Donald Halsell Jr.",
@@ -1068,7 +1186,8 @@
         "long": "-92.14819",
         "année": "1995",
         "mission": "Second Shuttle-Mir docking. Delivery of Russian docking module and solar arrays.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Jerry Lynn Ross",
@@ -1077,7 +1196,8 @@
         "long": "-87.36320",
         "année": "1995",
         "mission": "Second Shuttle-Mir docking. Delivery of Russian docking module and solar arrays.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "William Surles McArthur Jr.",
@@ -1086,7 +1206,8 @@
         "long": "-79.46572",
         "année": "1995",
         "mission": "Second Shuttle-Mir docking. Delivery of Russian docking module and solar arrays.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Chris Austin Hadfield",
@@ -1095,7 +1216,8 @@
         "long": "-82.40684",
         "année": "1995",
         "mission": "Second Shuttle-Mir docking. Delivery of Russian docking module and solar arrays.",
-        "pays": "Canada"
+        "pays": "Canada",
+        "color" :"orange"
     },
     {
         "astronaute": "Kevin Kregel",
@@ -1104,7 +1226,8 @@
         "long": "-73.4144166859533",
         "année": "2000",
         "mission": "Cartographie par radar de la surface terrestre.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Dominic L. Gorie",
@@ -1113,7 +1236,8 @@
         "long": "-93.23831863355049",
         "année": "2000",
         "mission": "Cartographie par radar de la surface terrestre.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Janet Lynn Kavandi",
@@ -1122,7 +1246,8 @@
         "long": "-93.28534995956933",
         "année": "2000",
         "mission": "Cartographie par radar de la surface terrestre.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Janice E. Voss",
@@ -1131,7 +1256,8 @@
         "long": "-86.28688188052054",
         "année": "2000",
         "mission": "Cartographie par radar de la surface terrestre.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Mamoru Mōri",
@@ -1140,7 +1266,8 @@
         "long": "140.86450317898215",
         "année": "2000",
         "mission": "Cartographie par radar de la surface terrestre.",
-        "pays": "Japan"
+        "pays": "Japan",
+        "color" :"orange"
     },
     {
         "astronaute": "Gerhard Thiele",
@@ -1149,7 +1276,8 @@
         "long": "10.166740712688773",
         "année": "2000",
         "mission": "Cartographie par radar de la surface terrestre.",
-        "pays": "Germany"
+        "pays": "Germany",
+        "color" :"orange"
     },
     {
         "astronaute": "Sergueï Zaliotine",
@@ -1158,7 +1286,8 @@
         "long": "37.604092149809595",
         "année": "2000",
         "mission": "Réparations diverses de Mir. 39e et dernière mission vers la station russe.",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Alexandre Kaleri",
@@ -1167,7 +1296,8 @@
         "long": "23.685087601167485",
         "année": "2000",
         "mission": "Réparations diverses de Mir. 39e et dernière mission vers la station russe.",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "James D. Halsell",
@@ -1176,7 +1306,8 @@
         "long": "-92.15864445107543",
         "année": "2000",
         "mission": "Construction et ravitaillement de l'ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" : "violet"
     },
     {
         "astronaute": "Scott J. Horowitz",
@@ -1185,7 +1316,8 @@
         "long": "-75.18533087120028",
         "année": "2000",
         "mission": "Construction et ravitaillement de l'ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Mary Weber",
@@ -1194,7 +1326,8 @@
         "long": "-81.73265020446739",
         "année": "2000",
         "mission": "Construction et ravitaillement de l'ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Jeffrey Williams",
@@ -1203,7 +1336,8 @@
         "long": "-92.07886843543311",
         "année": "2000",
         "mission": "Construction et ravitaillement de l'ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Susan J. Helms",
@@ -1212,7 +1346,8 @@
         "long": "-80.82889067233107",
         "année": "2000",
         "mission": "Construction et ravitaillement de l'ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Iouri Oussatchiov",
@@ -1221,7 +1356,8 @@
         "long": "37.639974325661136",
         "année": "2000",
         "mission": "Construction et ravitaillement de l'ISS.",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Terrence W. Wilcutt",
@@ -1230,7 +1366,8 @@
         "long": "-86.89526513871787",
         "année": "2000",
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Scott Douglas Altman",
@@ -1239,7 +1376,8 @@
         "long": "-89.3777001818558",
         "année": "2000",
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Daniel C. Burbank",
@@ -1248,7 +1386,8 @@
         "long": "-72.52294722156084",
         "année": "2000",
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Edward Tsang Lu",
@@ -1257,7 +1396,8 @@
         "long": "-72.54806081748403",
         "année": "2000",
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Richard Mastracchio",
@@ -1266,7 +1406,8 @@
         "long": "-73.0714084713637",
         "année": "2000",
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Iouri Malentchenko",
@@ -1275,7 +1416,8 @@
         "long": "33.206989712128234",
         "année": "2000",
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Boris Moroukov",
@@ -1284,7 +1426,8 @@
         "long": "37.59413435825824",
         "année": "2000",
         "mission": "Ravitaillement de l'ISS ; préparation pour la première expédition.",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Brian Duffy",
@@ -1293,7 +1436,8 @@
         "long": "-71.11174391554484",
         "année": "2000",
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Pamela Melroy",
@@ -1302,7 +1446,8 @@
         "long": "-122.13260634739915",
         "année": "2000",
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Kōichi Wakata",
@@ -1311,7 +1456,8 @@
         "long": "139.6499426699325",
         "année": "2000",
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
-        "pays": "Japan"
+        "pays": "Japan",
+        "color" :"orange"
     },
     {
         "astronaute": "Leroy Chiao",
@@ -1320,7 +1466,8 @@
         "long": "-87.99971321539431",
         "année": "2000",
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Peter Wisoff",
@@ -1329,7 +1476,8 @@
         "long": "-76.26857133210858",
         "année": "2000",
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Michael López-Alegría",
@@ -1338,7 +1486,8 @@
         "long": "-3.7022071986099285",
         "année": "2000",
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
-        "pays": "Spain"
+        "pays": "Spain",
+        "color" :"jaune"
     },
     {
         "astronaute": "William S. McArthur, Jr.",
@@ -1347,7 +1496,8 @@
         "long": "-79.47459277495426",
         "année": "2000",
         "mission": "Construction de l'ISS. 100e mission de la navette spatiale américaine.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "William Shepherd",
@@ -1356,7 +1506,8 @@
         "long": "-84.29186498578744",
         "année": "2000",
         "mission": "Première expédition vers l’ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Iouri Guidzenko",
@@ -1365,7 +1516,8 @@
         "long": "31.99700050634701",
         "année": "2000",
         "mission": "Première expédition vers l’ISS.",
-        "pays": "Ukraine"
+        "pays": "Ukraine",
+        "color" :"jaune"
     },
     {
         "astronaute": "Sergueï Krikaliov",
@@ -1374,7 +1526,8 @@
         "long": "32.60353423504855",
         "année": "2000",
         "mission": "Première expédition vers l’ISS.",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Brent W. Jett",
@@ -1383,7 +1536,8 @@
         "long": "-83.27773437317539",
         "année": "2000",
         "mission": "Construction et ravitaillement de l’ISS ; livraison du premier ensemble de panneaux solaires.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Michael J. Bloomfield",
@@ -1392,7 +1546,8 @@
         "long": "-88.21272636124887",
         "année": "2000",
         "mission": "Construction et ravitaillement de l’ISS ; livraison du premier ensemble de panneaux solaires.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Joseph R. Tanner",
@@ -1401,7 +1556,8 @@
         "long": "-87.62798798438992",
         "année": "2000",
         "mission": "Construction et ravitaillement de l’ISS ; livraison du premier ensemble de panneaux solaires.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Marc Garneau",
@@ -1410,7 +1566,8 @@
         "long": "-71.21102976432336",
         "année": "2000",
         "mission": "Construction et ravitaillement de l’ISS ; livraison du premier ensemble de panneaux solaires.",
-        "pays": "Canada"
+        "pays": "Canada",
+        "color" :"orange"
     },
     {
         "astronaute": "Carlos I. Noriega",
@@ -1419,7 +1576,8 @@
         "long": "-77.04001966905273",
         "année": "2000",
         "mission": "Construction et ravitaillement de l’ISS ; livraison du premier ensemble de panneaux solaires.",
-        "pays": "Peru"
+        "pays": "Peru",
+        "color" :"jaune"
     },
     {
         "astronaute": "Roberto Vittori",
@@ -1428,7 +1586,8 @@
         "long": "12.103523208069317",
         "année": "2005",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Italy"
+        "pays": "Italy",
+        "color" :"orange"
     },
     {
         "astronaute": "Sergueï Krikaliov",
@@ -1437,7 +1596,8 @@
         "long": "31.329120255081186",
         "année": "2005",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "John L. Phillips",
@@ -1446,7 +1606,8 @@
         "long": "-77.14909090181165",
         "année": "2005",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Eileen Collins",
@@ -1455,7 +1616,8 @@
         "long": "-76.82185280886486",
         "année": "2005",
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "James M. Kelly",
@@ -1464,7 +1626,8 @@
         "long": "-91.1285651592031",
         "année": "2005",
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Soichi Noguchi",
@@ -1473,7 +1636,8 @@
         "long": "139.55522363284567",
         "année": "2005",
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
-        "pays": "Japan"
+        "pays": "Japan",
+        "color" :"orange"
     },
     {
         "astronaute": "Stephen K. Robinson",
@@ -1482,7 +1646,8 @@
         "long": "-121.4758830165236",
         "année": "2005",
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Andy Thomas",
@@ -1491,7 +1656,8 @@
         "long": "138.5999961875238",
         "année": "2005",
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Wendy B. Lawrence",
@@ -1500,7 +1666,8 @@
         "long": "-81.79302083214048",
         "année": "2005",
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Charles Camarda",
@@ -1509,7 +1676,8 @@
         "long": "-73.84514416892623",
         "année": "2005",
         "mission": "Premier vol d’une navette spatiale américaine après la perte de la navette spatiale Columbia. Assemblage et ravitaillement de l’ISS.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Gregory Olsen",
@@ -1518,7 +1686,8 @@
         "long": "-73.95736838430891",
         "année": "2005",
         "mission": "Rotation de l’équipage permanent de l’ISS (Expédition 12). 3e touriste spatial.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Valeri Tokarev",
@@ -1527,7 +1696,8 @@
         "long": "45.75693785393801",
         "année": "2005",
         "mission": "Rotation de l’équipage permanent de l’ISS (Expédition 12). 3e touriste spatial.",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "William S. McArthur, Jr.",
@@ -1536,7 +1706,8 @@
         "long": "-79.48832568422117",
         "année": "2005",
         "mission": "Rotation de l’équipage permanent de l’ISS (Expédition 12). 3e touriste spatial.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Fei Junlong",
@@ -1545,7 +1716,8 @@
         "long": "120.55361503840065",
         "année": "2005",
         "mission": "Second vol habité chinois.",
-        "pays": "Chine"
+        "pays": "China",
+        "color" :"orange"
     },
     {
         "astronaute": "Nie Haisheng",
@@ -1554,7 +1726,8 @@
         "long": "112.69929783278243",
         "année": "2005",
         "mission": "Second vol habité chinois.",
-        "pays": "Chine"
+        "pays": "China",
+        "color" :"orange"
     },
     {
         "astronaute": "George D. Zamka",
@@ -1563,7 +1736,8 @@
         "long": "-74.0814366992003",
         "année": "2010",
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Terry Virts",
@@ -1572,7 +1746,8 @@
         "long": "-76.63836095760959",
         "année": "2010",
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Kathryn P. Hire",
@@ -1581,7 +1756,8 @@
         "long": "-88.16310470173063",
         "année": "2010",
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Stephen K. Robinson",
@@ -1590,7 +1766,8 @@
         "long": "-121.4621501072567",
         "année": "2010",
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Nicolas J.M. Patrick",
@@ -1599,7 +1776,8 @@
         "long": "-0.8956397770967587",
         "année": "2010",
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
-        "pays": "England"
+        "pays": "England",
+        "color" :"orange"
     },
     {
         "astronaute": "Robert Behnken",
@@ -1608,7 +1786,8 @@
         "long": "-90.43870242716093",
         "année": "2010",
         "mission": "Transport du module Tranquility et la coupole d'observation Cupola et l'assemblage de ceux-ci.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Alexander Skvortsov",
@@ -1617,7 +1796,8 @@
         "long": "38.02308367380224",
         "année": "2010",
         "mission": "105e vol d'un vaisseau Soyouz depuis le premier en 1967",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Mikhaïl Kornienko",
@@ -1626,7 +1806,8 @@
         "long": "48.40611140872546",
         "année": "2010",
         "mission": "105e vol d'un vaisseau Soyouz depuis le premier en 1967",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Tracy Caldwell",
@@ -1635,7 +1816,8 @@
         "long": "-118.03524678484192",
         "année": "2010",
         "mission": "105e vol d'un vaisseau Soyouz depuis le premier en 1967",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Alan G. Poindexter",
@@ -1644,7 +1826,8 @@
         "long": "-87.06380075133721",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "James Dutton",
@@ -1653,7 +1836,8 @@
         "long": "-123.12668103465434",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Richard Mastracchio",
@@ -1662,7 +1846,8 @@
         "long": "-73.07106514863202",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Clayton Anderson",
@@ -1671,7 +1856,8 @@
         "long": "-96.05928700927312",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Dorothy Metcalf-Lindenburger",
@@ -1680,7 +1866,8 @@
         "long": "-104.79685743281392",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Stephanie Wilson",
@@ -1689,7 +1876,8 @@
         "long": "-71.08337829274213",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Kenneth Ham",
@@ -1698,7 +1886,8 @@
         "long": "-74.41242864996556",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Dominic A. Antonelli",
@@ -1707,7 +1896,8 @@
         "long": "-83.11226220767745",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Stephen Gerard Bowen",
@@ -1716,7 +1906,8 @@
         "long": "-70.82437160969596",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Michael T. Good",
@@ -1725,7 +1916,8 @@
         "long": "-81.72961030639033",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Garrett Reisman",
@@ -1734,7 +1926,8 @@
         "long": "-74.47795489611777",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Piers Sellers",
@@ -1743,7 +1936,8 @@
         "long": "-95.42331502339185",
         "année": "2010",
         "mission": "Dernière mission de la navette spatiale Atlantis.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Fiodor Iourtchikhine",
@@ -1752,7 +1946,8 @@
         "long": "41.61777457601304",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Shannon Walker",
@@ -1761,7 +1956,8 @@
         "long": "-95.42331502339185",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Douglas H. Wheelock",
@@ -1770,7 +1966,8 @@
         "long": "-75.92109654974843",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Alexandre Kaleri",
@@ -1779,7 +1976,8 @@
         "long": "23.568357872398924",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Latvia"
+        "pays": "Latvia",
+        "color" :"jaune"
     },
     {
         "astronaute": "Oleg Skripotchka",
@@ -1788,7 +1986,8 @@
         "long": "41.943462548256655",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Scott Kelly",
@@ -1797,7 +1996,8 @@
         "long": "-74.24254462828885",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Dmitri Kondratiev",
@@ -1806,7 +2006,8 @@
         "long": "104.2795084952804",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Catherine Coleman",
@@ -1815,7 +2016,8 @@
         "long": "-80.07829361743318",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Paolo Nespoli",
@@ -1824,7 +2026,8 @@
         "long": "9.164675562963623",
         "année": "2010",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Italy"
+        "pays": "Italy",
+        "color" :"orange"
     },
     {
         "astronaute": "Guennadi Padalka",
@@ -1833,7 +2036,8 @@
         "long": "39.03199573035415",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Mikhaïl Kornienko",
@@ -1842,7 +2046,8 @@
         "long": "48.33195369868425",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Scott Kelly",
@@ -1851,7 +2056,8 @@
         "long": "-74.23447654409456",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Oleg Kononenko",
@@ -1860,7 +2066,8 @@
         "long": "63.52800185092212",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Turkmenistan"
+        "pays": "Turkmenistan",
+        "color" :"jaune"
     },
     {
         "astronaute": "Kimiya Yui",
@@ -1869,7 +2076,8 @@
         "long": "138.0870006784458",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Japan"
+        "pays": "Japan",
+        "color" :"orange"
     },
     {
         "astronaute": "Kjell N. Lindgren",
@@ -1878,7 +2086,8 @@
         "long": "121.54951492308068",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Taiwan"
+        "pays": "Taiwan",
+        "color" :"jaune"
     },
     {
         "astronaute": "Sergueï Volkov",
@@ -1887,7 +2096,8 @@
         "long": "36.67214759994829",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Ukraine"
+        "pays": "Ukraine",
+        "color" :"jaune"
     },
     {
         "astronaute": "Andreas Mogensen",
@@ -1896,7 +2106,8 @@
         "long": "12.54437691929781",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Denmark"
+        "pays": "Denmark",
+        "color" :"jaune"
     },
     {
         "astronaute": "Aïdyn Aimbetov",
@@ -1905,7 +2116,8 @@
         "long": "68.41822822570214",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Kazakhstan"
+        "pays": "Kazakhstan",
+        "color" :"jaune"
     },
     {
         "astronaute": "Iouri Malentchenko",
@@ -1914,7 +2126,8 @@
         "long": "33.209049648118054",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Ukraine"
+        "pays": "Ukraine",
+        "color" :"jaune"
     },
     {
         "astronaute": "Timothy Peake",
@@ -1923,7 +2136,8 @@
         "long": "-0.7926143682857449",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "England"
+        "pays": "England",
+        "color" :"orange"
     },
     {
         "astronaute": "Timothy Kopra",
@@ -1932,7 +2146,8 @@
         "long": "-97.74480679911997",
         "année": "2015",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Anatoli Ivanichine",
@@ -1941,7 +2156,8 @@
         "long": "104.28859543046421",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Ivan Vagner",
@@ -1950,7 +2166,8 @@
         "long": "61.58512607093227",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Christopher Cassidy",
@@ -1959,7 +2176,8 @@
         "long": "-70.91040762049757",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Douglas Hurley",
@@ -1968,7 +2186,8 @@
         "long": "-76.06456040859555",
         "année": "2020",
         "mission": "Vol d’essai du Crew Dragon.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Robert Behnken",
@@ -1977,7 +2196,8 @@
         "long": "-90.4481438022819",
         "année": "2020",
         "mission": "Vol d’essai du Crew Dragon.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Sergueï Ryjikov",
@@ -1986,7 +2206,8 @@
         "long": "52.7788628374749",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Sergueï Koud-Skvertchkov",
@@ -1995,7 +2216,8 @@
         "long": "45.2003853737912",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Kathleen Rubins",
@@ -2004,7 +2226,8 @@
         "long": "-72.84864975531505",
         "année": "2020",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Michael Hopkins",
@@ -2013,7 +2236,8 @@
         "long": "-92.66394811144669",
         "année": "2020",
         "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Victor J. Glover",
@@ -2022,7 +2246,8 @@
         "long": "-117.76136197462252",
         "année": "2020",
         "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Soichi Noguchi",
@@ -2031,7 +2256,8 @@
         "long": "139.5723897694293",
         "année": "2020",
         "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS",
-        "pays": "Japan"
+        "pays": "Japan",
+        "color" :"orange"
     },
     {
         "astronaute": "Shannon Walker",
@@ -2040,7 +2266,8 @@
         "long": "-95.43155476895197",
         "année": "2020",
         "mission": "Vol opérationnel du Crew Dragon. Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Nicole Mann",
@@ -2049,7 +2276,8 @@
         "long": "-122.66667090678077",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Josh A. Cassada",
@@ -2058,7 +2286,8 @@
         "long": "-93.02879606866432",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Kōichi Wakata",
@@ -2066,7 +2295,9 @@
         "lat": "35.91078684054532",
         "long": "139.62790488683385",
         "année": "2022",
-        "mission": "Rotation de l’équipage permanent de l’ISS"
+        "mission": "Rotation de l’équipage permanent de l’ISS",
+        "pays": "Japan",
+        "color" :"orange"
     },
     {
         "astronaute": "Anna Kikina",
@@ -2074,7 +2305,9 @@
         "lat": "55.013774638048915",
         "long": "82.98782308200187",
         "année": "2022",
-        "mission": "Rotation de l’équipage permanent de l’ISS"
+        "mission": "Rotation de l’équipage permanent de l’ISS",
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Francisco Rubio",
@@ -2083,7 +2316,8 @@
         "long": "-118.47900845269606",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Dimitri Peteline",
@@ -2092,7 +2326,8 @@
         "long": "63.59214811906321",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Ukraine"
+        "pays": "Ukraine",
+        "color" :"jaune"
     },
     {
         "astronaute": "Sergueï Prokopiev",
@@ -2101,7 +2336,8 @@
         "long": "60.86939062272",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Steve Young",
@@ -2110,7 +2346,8 @@
         "long": "-111.93148257280374",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Sara Sabry",
@@ -2119,7 +2356,8 @@
         "long": "31.29384740657613",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays": "Egypt"
+        "pays": "Egypt",
+        "color" :"jaune"
     },
     {
         "astronaute": "Clint Kelly III",
@@ -2128,7 +2366,8 @@
         "long": "-104.53526696134904",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Vanessa O'Brien",
@@ -2137,7 +2376,8 @@
         "long": "-82.90964272412705",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays": "England"
+        "pays": "England",
+        "color" :"orange"
     },
     {
         "astronaute": "Mário Ferreira",
@@ -2146,7 +2386,8 @@
         "long": "-8.695803817903453",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays": "Portugal"
+        "pays": "Portugal",
+        "color" :"jaune"
     },
     {
         "astronaute": "Coby Cotton",
@@ -2155,7 +2396,8 @@
         "long": "-95.53109964805869",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Chen Dong",
@@ -2164,7 +2406,8 @@
         "long": "112.44536330597664",
         "année": "2022",
         "mission": "Troisième mission habitée vers la SSC.",
-        "pays": "China"
+        "pays": "China",
+        "color" :"orange"
     },
     {
         "astronaute": "Liu Yang",
@@ -2173,7 +2416,8 @@
         "long": "113.94321877603645",
         "année": "2022",
         "mission": "Troisième mission habitée vers la SSC.",
-        "pays": "China"
+        "pays": "China",
+        "color" :"orange"
     },
     {
         "astronaute": "Cai Xuzhe",
@@ -2182,7 +2426,8 @@
         "long": "115.5899219570005",
         "année": "2022",
         "mission": "Troisième mission habitée vers la SSC.",
-        "pays": "China"
+        "pays": "China",
+        "color" :"orange"
     },
     {
         "astronaute": "Evan Dick",
@@ -2191,7 +2436,8 @@
         "long": "-104.8348644643359",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Katya Echazarreta",
@@ -2200,7 +2446,8 @@
         "long": "-103.3474328328745",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays": "Mexico"
+        "pays": "Mexico",
+        "color" :"jaune"
     },
     {
         "astronaute": "Hamish Harding",
@@ -2209,7 +2456,8 @@
         "long": "-0.13612281970156687",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays": "England"
+        "pays": "England",
+        "color" :"orange"
     },
     {
         "astronaute": "Victor Correa Hespanha",
@@ -2218,7 +2466,8 @@
         "long": "-45.95450245000439",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays": "Brazil"
+        "pays": "Brazil",
+        "color" :"jaune"
     },
     {
         "astronaute": "Jaison Robinson",
@@ -2227,7 +2476,8 @@
         "long": "-99.08604856424722",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Victor Vescovo",
@@ -2236,7 +2486,8 @@
         "long": "-100.3982525759648",
         "année": "2022",
         "mission": "Cinquième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Kjell N. Lindgren",
@@ -2245,7 +2496,8 @@
         "long": "121.54951492308068",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Taiwan"
+        "pays": "Taiwan",
+        "color" :"jaune"
     },
     {
         "astronaute": "Robert Hines",
@@ -2254,7 +2506,8 @@
         "long": "-78.98932233710394",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Samantha Cristoforetti",
@@ -2263,7 +2516,8 @@
         "long": "9.139269680819877",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Italy"
+        "pays": "Italy",
+        "color" :"orange"
     },
     {
         "astronaute": "Jessica Watkins",
@@ -2272,7 +2526,8 @@
         "long": "-77.23017174132642",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Michael López-Alegría",
@@ -2281,7 +2536,8 @@
         "long": "-3.704267134999961",
         "année": "2022",
         "mission": "Première mission d'Axiom Space.",
-        "pays": "Spain"
+        "pays": "Spain",
+        "color" :"jaune"
     },
     {
         "astronaute": "Larry Connor",
@@ -2290,7 +2546,8 @@
         "long": "-73.80278730896487",
         "année": "2022",
         "mission": "Première mission d'Axiom Space.",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Eytan Stibbe",
@@ -2299,7 +2556,8 @@
         "long": "34.99445693941857",
         "année": "2022",
         "mission": "Première mission d'Axiom Space.",
-        "pays": "Israel"
+        "pays": "Israel",
+        "color" :"jaune"
     },
     {
         "astronaute": "Mark Pathy",
@@ -2308,7 +2566,8 @@
         "long": "-111.43790637044916",
         "année": "2022",
         "mission": "Première mission d'Axiom Space.",
-        "pays": "Canada"
+        "pays": "Canada",
+        "color" :"orange"
     },
     {
         "astronaute": "Marty Allen",
@@ -2317,7 +2576,8 @@
         "long": "-75.82488406027005",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Sharon Hagle",
@@ -2326,7 +2586,8 @@
         "long": "-81.26354083566038",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Marc Hagle",
@@ -2335,7 +2596,8 @@
         "long": "-81.26354083566038",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Gary Lai",
@@ -2344,7 +2606,8 @@
         "long": "-81.30401350761332",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Jim Kitchen",
@@ -2353,7 +2616,8 @@
         "long": "-78.88462386319442",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "George Nield",
@@ -2362,7 +2626,8 @@
         "long": "-122.19786096881857",
         "année": "2022",
         "mission": "Quatrième vol habité de New Shepard",
-        "pays": "USA"
+        "pays": "USA",
+        "color" :"violet"
     },
     {
         "astronaute": "Denis Matveïev",
@@ -2371,7 +2636,8 @@
         "long": "30.237380308947927",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Russia"
+        "pays": "Russia",
+        "color" :"violet"
     },
     {
         "astronaute": "Sergueï Korsakov",
@@ -2380,6 +2646,7 @@
         "long": "30.366892955623",
         "année": "2022",
         "mission": "Rotation de l’équipage permanent de l’ISS",
-        "pays": "Kyrgyzstan"
+        "pays": "Kyrgyzstan",
+        "color" :"jaune"
     }
 ]
