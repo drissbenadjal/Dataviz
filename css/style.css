@@ -188,9 +188,9 @@ ul li .activeyear {
     z-index: 3;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-end;
+    padding-right: 10%;
 }
-
 
 .hidden-modal {
     display: none;
