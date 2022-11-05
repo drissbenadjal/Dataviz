@@ -714,10 +714,10 @@
         "astronaute": "Bernard Anthony Harris Jr.",
         "originaire": "Temple",
         "lat": "31.09718",
-        "long": "97.34101",
+        "long": "-97.34101",
         "année": "1995",
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
-        "pays": "England"
+        "pays": "USA"
     },
     {
         "astronaute": "Vladimir Gueorguievitch Titov",
@@ -2137,7 +2137,7 @@
         "long": "-82.90964272412705",
         "année": "2022",
         "mission": "Sixième vol habité de New Shepard",
-        "pays": "England"
+        "pays": "USA"
     },
     {
         "astronaute": "Mário Ferreira",
