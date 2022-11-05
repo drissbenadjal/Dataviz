@@ -353,7 +353,7 @@
         "astronaute": "Shannon Wells Lucid",
         "originaire": "Shangai",
         "lat": "31.22031",
-        "long": "121.46239",
+        "long": "-121.46239",
         "année": "1985",
         "mission": "Al-Saud : premier Saoudien dans l'espace",
         "pays": "USA",
@@ -386,8 +386,8 @@
         "long": "9.75482",
         "année": "1985",
         "mission": "Al-Saud : premier Saoudien dans l'espace",
-        "pays": "France",
-        "color" :"orange"
+        "pays": "Cameroon",
+        "color" :"jaune"
     },
     {
         "astronaute": "Sultan ben Salmane ben Abdelaziz Al Saoud",
@@ -793,7 +793,7 @@
         "astronaute": "Bernard Anthony Harris Jr.",
         "originaire": "Temple",
         "lat": "31.09718",
-        "long": "97.34101",
+        "long": "-97.34101",
         "année": "1995",
         "mission": "Rendez vous maneuver with Mir. Première femme pilote (Collins). SPACEHAB-3: miscellaneous science experiments. First EVA by an African-American astronaut (Harris).",
         "pays": "USA",
@@ -892,8 +892,8 @@
     {
         "astronaute": "Vladimir Nikolaïevitch Dejourov",
         "originaire": "Yavas",
-        "lat": "54.40829",
-        "long": "43.03854",
+        "lat": "62.40829",
+        "long": "93.03854",
         "année": "1995",
         "mission": "Première visite d'un Américain sur Mir (Thagard).",
         "pays": "Russia",
@@ -962,8 +962,8 @@
     {
         "astronaute": "Nikolaï Mikhaïlovitch Boudarine",
         "originaire": "Kiria",
-        "lat": "41.47558",
-        "long": "84.53081",
+        "lat": "63.47558",
+        "long": "93.53081",
         "année": "1995",
         "mission": "STS-71, Atlantis Premier amarrage Navette-Mir. Biomedical experiments. Rotation de l'équipage de Mir et réapprovisionnement.",
         "pays": "Russia",
