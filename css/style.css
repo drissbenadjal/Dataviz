@@ -261,3 +261,85 @@ header .separator {
 .hidden-modal {
     display: none;
 }
+
+@media only screen and (max-width: 1080px) {
+    
+    .parent {
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        grid-template-rows: repeat(8, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+    }
+        
+    .div1 { 
+        grid-area: 1 / 1 / 2 / 9; 
+    }
+
+    .div2 { 
+        grid-area: 2 / 1 / 9 / 2; 
+    }
+
+    .div2 ul li button {
+        font-size: 1.2rem;
+    }
+
+    .div3 { 
+        grid-area: 2 / 2 / 7 / 6; 
+    }
+
+    .div4 { 
+        grid-area: 2 / 6 / 7 / 8; 
+    }
+
+    .annee p, .pays p {
+        font-size: 0.8em;
+    }
+
+    #astromission {
+        font-size: 0.9em;
+        text-align: end;
+    }
+    
+    #astrodate, #astropays {
+        font-size: 1.1em;
+    }
+
+    .div4 h3 {
+        font-size: 1.3em;
+        text-align: end;
+    }
+
+    .div4 .info {
+        justify-content: flex-end;
+    }
+
+    .div5 { 
+        grid-area: 8 / 2 / 9 / 8;
+        z-index: 5;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .div5 ul {
+        list-style: none;
+        display: flex;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        flex-direction: row;
+    }
+
+    .div5 ul li {
+        display: flex;
+        flex-direction: row;
+        text-align: initial;
+        align-items: baseline;
+    }
+
+    .div5 ul li p {
+        font-weight: bold;
+    }
+
+}
