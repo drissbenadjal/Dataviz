@@ -289,7 +289,7 @@ header .separator {
     }
 
     .div4 { 
-        grid-area: 2 / 6 / 7 / 8; 
+        grid-area: 3 / 6 / 7 / 8; 
     }
 
     .annee p, .pays p {
@@ -340,6 +340,77 @@ header .separator {
 
     .div5 ul li p {
         font-weight: bold;
+    }
+
+}
+
+@media only screen and (max-width: 800px) {
+ 
+    .parent {
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        grid-template-rows: repeat(9, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+    }
+        
+    .div1 { 
+        grid-area: 1 / 1 / 2 / 9; 
+    }
+
+    .div2 { 
+        grid-area: 3 / 2 / 4 / 8; 
+    }
+
+    .div2 ul {
+        position: initial;
+        list-style: none;
+        gap: 25px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 0;
+        padding-left: 0px;
+    }
+
+    .div3 { 
+        grid-area: 4 / 2 / 8 / 8; 
+        height: 60vh;
+    }
+
+    .div4 { 
+        grid-area: 9 / 2 / 10 / 8; 
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 15%;
+        padding-bottom: 15%;
+    }
+
+    .div4 h3 {
+        text-align: center;
+    }
+
+    .div4 .info {
+        justify-content: center;
+        gap: 30%;
+    }
+
+    .div5 ul {
+        padding-left: 0;
+    }
+
+    #astromission {
+        text-align: center;
+    }
+
+    .div5 { 
+        grid-area: 8 / 2 / 9 / 8; 
+    }
+
+    .div6 { 
+        grid-area: 2 / 2 / 3 / 8; 
     }
 
 }
