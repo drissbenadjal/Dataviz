@@ -114,22 +114,15 @@ header .separator {
     background-color: white;
 }
 
-ul {
+.div2 ul {
     position: absolute;
-    z-index: 100;
-    top: 50%;
-    left: 10px;
-    transform: translate(0, -50%);
     list-style: none;
-    padding: 0;
-    margin: 0;
     gap: 25px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
-ul li button {
+.div2 ul li button {
     background-color: transparent;
     border: none;
     color: white;
@@ -138,19 +131,21 @@ ul li button {
     transition: all ease-in-out 0.3s;
 }
 
-ul li button:hover {
+.div2 ul li button:hover {
     transform: scale(1.3);
     transition: all ease-in-out 0.3s;
 }
 
-ul li .activeyear {
+.div2 ul li .activeyear {
     transform: scale(1.3);
 }
+
 
 .div4 {
     position: relative;
     z-index: 5;
 }
+
 
 #earth_div {
     color: #333;
@@ -165,31 +160,102 @@ ul li .activeyear {
 
 .parent {
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(5, 1fr);
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(8, 1fr);
     grid-column-gap: 0px;
     grid-row-gap: 0px;
+    height: 100vh;
+}
+    
+.div1 { 
+    grid-area: 1 / 1 / 2 / 8; 
 }
 
-.div1 {
-    grid-area: 2 / 1 / 6 / 2;
+.div1 img {
+    margin-left: 2%;
+    width: 6.7%;
 }
 
-.div2 {
-    grid-area: 2 / 2 / 6 / 5;
+.div2 { 
+    grid-area: 2 / 1 / 9 / 2; 
+    display: flex;
+    align-items: center;
+    z-index: 2;
 }
 
-.div3 {
-    grid-area: 1 / 1 / 2 / 7;
+.div3 { 
+    grid-area: 3 / 2 / 9 / 6; 
 }
 
-.div4 {
-    grid-area: 2 / 5 / 6 / 7;
-    z-index: 3;
+.div4 { 
+    grid-area: 2 / 6 / 7 / 8; 
+}
+
+.div4 h3 {
+    font-size: 1.6em;
+    margin-top: 0;
+    margin-bottom: 2%;
+}
+
+.info {
+    display: flex;
+    align-items: flex-start;
+}
+
+.info .annee {
+    margin-right: 12%;
+}
+
+#astrodate, #astropays {
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+.div4 svg {
+    margin-top: 4%;
+}
+
+.div5 { 
+    grid-area: 7 / 6 / 9 / 8; 
     display: flex;
     flex-direction: column;
+    justify-content: flex-end;
     align-items: flex-end;
-    padding-right: 10%;
+}
+
+.div5 .line {
+    width: 15%;
+    margin-right: 4%;
+    margin-bottom: 4%;
+    border: 1px solid #FFFFFF;
+    background-color: white;
+}
+
+.div5 ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.div5 ul li {
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: end;
+    align-items: baseline;
+}
+
+.div5 ul li p {
+    font-size: 0.8em;
+}
+
+.div5 ul li img {
+    width: 15%;
+}
+
+.div6 { 
+    grid-area: 2 / 2 / 3 / 7; 
 }
 
 .hidden-modal {
