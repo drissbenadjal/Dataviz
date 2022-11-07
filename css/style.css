@@ -166,11 +166,25 @@ header .separator {
 
 .div1 {
     grid-area: 1 / 1 / 2 / 8;
+    display: flex;
+    justify-content: space-between;
 }
 
 .div1 img {
     margin-left: 2%;
     width: 6.7%;
+}
+
+.div1 button {
+    width: 4%;
+    background: transparent;
+    border: none;
+    margin-right: 2%;
+}
+
+.div1 button img {
+    width: 100%;
+    height: auto;
 }
 
 .div2 {
