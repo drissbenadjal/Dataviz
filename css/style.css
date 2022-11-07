@@ -264,6 +264,12 @@ header .separator {
 
 @media only screen and (max-width: 1080px) {
 
+    .div1 img {
+        margin-left: 2%;
+        height: 80px;
+        width: auto;
+    }
+
     .div4 {
         grid-area: 2 / 6 / 7 / 9 !important;
     }
@@ -351,7 +357,6 @@ header .separator {
 }
 
 @media only screen and (max-width: 800px) {
-
 
     #earth_div {
         left: 0%;
