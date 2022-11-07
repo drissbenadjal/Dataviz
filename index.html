@@ -27,10 +27,12 @@
 
 <body>
 
-    <div class="loader"></div>
+    <div class="loader">
+        <img src="images/DataViz_GIF.gif" alt="astro'viz.com">
+    </div>
     <div class="parent">
         <div class="div1">
-            <img src="images/dataviz.png" alt="astro'viz.com">
+            <img src="images/DataViz_GIF.gif" alt="astro'viz.com">
             <button id="btnpopup"><img src="images/informations-8.png" alt="informations"></button>
         </div>
         <div class="div2">
@@ -87,28 +89,44 @@
     </div>
     <div class="popup hidden-modal"> 
         <button id="popupClose">&times;</button>
-        <h2>Commentaires :</h2>
+        <div class="com_sources">
+            <div class="com">
+                <h2>Commentaire :</h2>
+                <p>
+                    Dans le cadre de la SAE dataviz nous avons fait le choix de représenter les astronautes ayant réalisés des missions spatiales par leurs origines.<br>
+                    En effet, avec la map et le choix de la date nous pouvons facilement remarqué une monopolisation du secteur spatiale par les États Unis et la Russie.<br>
+                    Cette monopolisation est facilement remarquable en période de guerre froide, ce qui s’explique par la course à la conquête spatiale des 2 blocs. <br>
+                    Cependant, plus le temps passe et plus des pays s’ajoutent à ses expéditions et certains deviennent même des acteurs importants de ces missions (points oranges). <br>
+                    Ainsi, nous faisons face à une démocratisation progressive des missions spatiales.
+                </p>
+            </div>
+            <div class="sources">
+                <h2>Sources :</h2>
+                <h3>Les données :</h3>
+                <ul>
+                    <li><a href="https://fr.wikipedia.org/wiki/Liste_des_missions_spatiales_habit%C3%A9es_entre_1961_et_1986" target="_blank">Wikipedia 1961 et 1986</a></li>
+                    <li><a href="https://fr.wikipedia.org/wiki/Liste_des_missions_spatiales_habit%C3%A9es_entre_1987_et_1999" target="_blank">Wikipedia 1987 et 1999</a></li>
+                    <li><a href="https://fr.wikipedia.org/wiki/Liste_des_missions_spatiales_habit%C3%A9es_entre_2000_et_2010" target="_blank">Wikipedia 2000 et 2010</a></li>
+                    <li><a href="https://fr.wikipedia.org/wiki/Liste_des_missions_spatiales_habit%C3%A9es_entre_2011_et_2020" target="_blank">Wikipedia 2011 et 2020</a></li>
+                    <li><a href="https://fr.wikipedia.org/wiki/Liste_des_missions_spatiales_habit%C3%A9es_depuis_2021" target="_blank">Wikipedia 2021 et 2022</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="js">
+            <h3>Le Javascript :</h3>
+            <ul>
+                <li><a href="https://sites.google.com/site/webglearth/" target="_blank">Librairie WebGL<a></li>
+                <li><a href="https://d3-graph-gallery.com/graph/backgroundmap_country.html" target="_blank">Librairie D3 map</a></li>
+            </ul> 
+        </div>
+
         <p>
-            Dans le cadre de la SAE dataviz nous avons fait le choix de représenter les astronautes ayant réalisés des missions spatiales par leurs origines.<br>
-            En effet, avec la map et le choix de la date nous pouvons facilement remarqué une monopolisation du secteur spatiale par les États Unis et la Russie.<br>
-            Cette monopolisation est facilement remarquable en période de guerre froide, ce qui s’explique par la course à la conquête spatiale des 2 blocs. <br>
-            Cependant, plus le temps passe et plus des pays s’ajoutent à ses expéditions et certains deviennent même des acteurs importants de ces missions (points oranges). <br>
-            Ainsi, nous faisons face à une démocratisation progressive des missions spatiales.
+            Informations Dévelopeur : Projet SAÉ DataViz réalisé par Driss Benadjal, Chaïma Bensaber, Ricardo Cereyon Plançy
+            Conception graphique et images : Chaïma Bensaber
+            Informations hébergeur : <a href="https://github.com/" target="_blank">Github</a> 
+            Datas : <a href="https://fr.wikipedia.org/" target="_blank">Wikipedia</a> 
         </p>
-        <h2>Sources :</h2>
-        <h3>Les données :</h3>
-        <ul>
-            <li><a href="">https://fr.wikipedia.org/wiki/Liste_des_missions_spatiales_habit%C3%A9es_entre_1961_et_1986</a></li>
-            <li><a href="">https://fr.wikipedia.org/wiki/Liste_des_missions_spatiales_habit%C3%A9es_entre_1987_et_1999</a></li>
-            <li><a href="">https://fr.wikipedia.org/wiki/Liste_des_missions_spatiales_habit%C3%A9es_entre_2000_et_2010</a></li>
-            <li><a href="">https://fr.wikipedia.org/wiki/Liste_des_missions_spatiales_habit%C3%A9es_entre_2011_et_2020</a></li>
-            <li><a href="">https://fr.wikipedia.org/wiki/Liste_des_missions_spatiales_habit%C3%A9es_depuis_2021</a></li>
-        </ul>
-        <h3>Le Javascript :</h3>
-        <ul>
-            <li><a href="">https://sites.google.com/site/webglearth/<a></li>
-            <li><a href="">https://d3-graph-gallery.com/graph/backgroundmap_country.html</a></li>
-        </ul>
+        <p>Dataviz 2022 © Driss Benadjal, Chaïma Bensaber, Ricardo Cereyon Plançy</p>
     </div>
 </body>
 

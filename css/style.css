@@ -87,6 +87,13 @@ body:before {
     width: 100%;
     background-color: #333;
     z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader img {
+    height: 25%;
 }
 
 #earth_div {
@@ -297,9 +304,7 @@ header .separator {
     height: 100%;
     background-color: #212121;
     z-index: 100;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    padding: 3%;
 }
 
 .popup #popupClose{
@@ -317,6 +322,69 @@ header .separator {
 
 .popup #popupClose:active{
     transform: scale(0.9);
+}
+
+.popup .com_sources {
+    display: flex;
+    flex-direction: row;
+    gap: 6%;
+}
+
+.popup .com, .popup .sources {
+    width: 45%;
+}
+
+.popup .js {
+    margin-top: 4%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.popup .js ul {
+    padding-left: 0;
+}
+
+.popup p {
+    line-height: 23px;
+    font-family: system-ui;
+    font-size: 1.1em;
+}
+
+.popup h3 {
+    width: fit-content;
+    border-bottom: solid white 1px;
+}
+
+.popup a {
+    color: white;
+    font-family: system-ui;
+    font-size: 1.1em;
+    transition: 0.2s ease-out;
+}
+
+.popup a:hover {
+    color: rgb(153, 153, 153);
+    transition: 0.2s ease-out;
+}
+
+.popup h2 {
+    margin-top: 3.5%
+}
+
+.popup ul {
+    padding-left: 25px;
+}
+
+.popup ul li {
+    list-style: square;
+    margin: 1.2% 0;
+}
+
+.popup ul li a {
+    color: white;
+    font-family: system-ui;
+    font-size: 1.1em;
 }
 
 @media only screen and (max-width: 1080px) {
