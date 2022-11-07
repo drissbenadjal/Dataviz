@@ -93,7 +93,8 @@ body:before {
     top: 0;
     right: 0;
     bottom: 0;
-    left: 0;
+    color: #333;
+    left: -18%;
     position: absolute !important;
 }
 
@@ -146,12 +147,6 @@ header .separator {
     z-index: 5;
 }
 
-
-#earth_div {
-    color: #333;
-    left: -18%;
-}
-
 .we-pm-icon {
     cursor: pointer;
     /* background-image: url(../images/point_bleu.png) !important; */
@@ -183,7 +178,7 @@ header .separator {
     z-index: 2;
 }
 
-.div3 { 
+.div3 {
     grid-area: 3 / 2 / 9 / 6; 
 }
 
@@ -259,10 +254,13 @@ header .separator {
 }
 
 .hidden-modal {
-    display: none;
+    display: none !important;
 }
 
 @media only screen and (max-width: 1080px) {
+    #earth_div {
+        left: 0%;
+    }
     
     .parent {
         display: grid;
