@@ -184,6 +184,8 @@ header .separator {
 
 .div4 { 
     grid-area: 2 / 6 / 7 / 8; 
+    text-align: right;
+    margin-right: 10%;
 }
 
 .div4 h3 {
@@ -195,6 +197,7 @@ header .separator {
 .info {
     display: flex;
     align-items: flex-start;
+    justify-content: flex-end;
 }
 
 .info .annee {
@@ -208,6 +211,7 @@ header .separator {
 
 .div4 svg {
     margin-top: 4%;
+    transform: translate(-3%, 0px);
 }
 
 .div5 { 
@@ -258,8 +262,9 @@ header .separator {
 }
 
 @media only screen and (max-width: 1080px) {
-    #earth_div {
-        left: 0%;
+
+    .div4 {
+        grid-area: 2 / 6 / 7 / 9 !important;
     }
     
     .parent {
@@ -343,6 +348,11 @@ header .separator {
 }
 
 @media only screen and (max-width: 800px) {
+
+    
+    #earth_div {
+        left: 0%;
+    }
  
     .parent {
         display: grid;
@@ -378,7 +388,7 @@ header .separator {
     }
 
     .div4 { 
-        grid-area: 9 / 2 / 10 / 8; 
+        grid-area: 9 / 2 / 10 / 8 !important; 
         display: flex;
         flex-direction: column;
         align-items: center;
