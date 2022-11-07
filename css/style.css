@@ -401,7 +401,7 @@ header .separator {
 
     .div3 {
         grid-area: 4 / 2 / 8 / 8;
-        height: 60vh;
+        height: 30vh;
     }
 
     .div4 {
