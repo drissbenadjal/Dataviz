@@ -392,11 +392,6 @@ header .separator {
     font-size: 1.1em;
 }
 
-.popup hidden-modal p:last-child {
-    margin-top: 3%;
-    text-align: center;
-  }
-
 @media only screen and (max-width: 1080px) {
 
     .div1 img {
@@ -496,6 +491,11 @@ header .separator {
 }
 
 @media only screen and (max-width: 800px) {
+
+    .div1 button img {
+        width: auto;
+        height: 100%;
+    }
 
     .div2 ul {
         gap: 5px;
