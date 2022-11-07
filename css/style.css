@@ -494,6 +494,7 @@ header .separator {
 @media only screen and (max-width: 800px) {
 
     .div1 button img {
+        margin-right: 5%;
         width: auto;
         height: 100%;
     }
