@@ -12,5 +12,17 @@ window.onload = function () {
         }, 40);
     }, 1500);
     initialize();
+
+    let btnPopup = document.querySelector("#btnpopup");
+    let closePopup = document.querySelector("#popupClose");
+    let popup = document.querySelector(".popup");
+
+    btnPopup.addEventListener("click", function () {
+        popup.classList.remove("hidden-modal");
+    });
+
+    closePopup.addEventListener("click", function () {
+        popup.classList.add("hidden-modal");
+    });
 }
 

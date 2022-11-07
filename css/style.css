@@ -22,7 +22,6 @@ body {
 }
 
 body:before {
-    z-index: 99;
     position: fixed;
     animation: grain 8s steps(10) infinite;
     background-image: url(../images/noise.png);
@@ -33,6 +32,7 @@ body:before {
     top: -100%;
     width: 300%;
     pointer-events: none;
+    z-index: 100;
 }
 
 @keyframes grain {
@@ -176,10 +176,19 @@ header .separator {
 }
 
 .div1 button {
+    margin-top: 15px;
+    position: relative;
+    z-index: 5;
     width: 4%;
     background: transparent;
     border: none;
     margin-right: 2%;
+    height: 50px;
+    cursor: pointer;
+}
+
+.div1 button:active {
+    transform: scale(0.9);
 }
 
 .div1 button img {
@@ -277,6 +286,37 @@ header .separator {
 
 .hidden-modal {
     display: none !important;
+}
+
+.popup{
+    position: fixed;
+    z-index: 20;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #212121;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup #popupClose{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 0;
+    right: 0.8%;
+    background-color: transparent;
+    border: none;
+    font-size: 10vh;
+    color: rgba(255, 255, 255, 0.89);
+    cursor: pointer;
+    font-weight: 200;
+}
+
+.popup #popupClose:active{
+    transform: scale(0.9);
 }
 
 @media only screen and (max-width: 1080px) {
