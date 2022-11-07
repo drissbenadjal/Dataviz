@@ -172,7 +172,7 @@ header .separator {
 }
 
 .div2 {
-    grid-area: 2 / 1 / 9 / 2;
+    grid-area: 1 / 1 / 9 / 2;
     display: flex;
     align-items: center;
     z-index: 2;
@@ -221,6 +221,7 @@ header .separator {
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-end;
+    padding-bottom: 2%;
 }
 
 .div5 .line {

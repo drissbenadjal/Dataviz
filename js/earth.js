@@ -119,6 +119,10 @@ function initialize() {
 
                         affichePays(namePays, pays)
 
+                        if (window.innerWidth < 800) {
+                            window.scrollTo(0, document.body.scrollHeight);
+                        }
+
                     });
                 });
             });
