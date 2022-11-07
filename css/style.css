@@ -454,7 +454,7 @@ header .separator {
 
 @media only screen and (max-width: 380px) {
     .div2 ul {
-        gap: 5px;
+        gap: 0px;
     }
 
     .div2 ul li button {
