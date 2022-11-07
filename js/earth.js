@@ -31,14 +31,21 @@ function initialize() {
     WE.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     }).addTo(earth);
 
-    earth.setMinAltitude(26200000);
-    earth.setMaxAltitude(26200000);
-
+    if (window.innerWidth < 800) {
+        earth.setMinAltitude(14100000);
+        earth.setMaxAltitude(14100000);
+        earth.setZoom(2.2);
+    }
+    else {
+        earth.setMinAltitude(26200000);
+        earth.setMaxAltitude(26200000);
+        earth.setZoom(2.64408209879224);
+    }
 
     window.addEventListener('resize', function () {
         if (window.innerWidth < 800) {
-            earth.setMinAltitude(16200000);
-            earth.setMaxAltitude(16200000);
+            earth.setMinAltitude(14100000);
+            earth.setMaxAltitude(14100000);
             earth.setZoom(2.2);
         }
         else {
