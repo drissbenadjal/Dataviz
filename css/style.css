@@ -287,6 +287,10 @@ header .separator {
         height: 100px;
     }
 
+    .div1 button {
+        width: 5.5%;
+    }
+
     .div4 {
         grid-area: 2 / 6 / 7 / 9 !important;
     }
@@ -398,6 +402,10 @@ header .separator {
 
     .div1 {
         grid-area: 1 / 1 / 2 / 9;
+    }
+
+    .div1 button {
+        width: 8%;
     }
 
     .div2 {
