@@ -500,6 +500,7 @@ header .separator {
 
     .div1 button {
         margin-right: 10%;
+        width: 10%;
     }
 
     .div2 ul {
@@ -525,10 +526,6 @@ header .separator {
 
     .div1 {
         grid-area: 1 / 1 / 2 / 9;
-    }
-
-    .div1 button {
-        width: 8%;
     }
 
     .div2 {
