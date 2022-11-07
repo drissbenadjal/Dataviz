@@ -34,11 +34,15 @@ function initialize() {
     if (window.innerWidth < 800) {
         earth.setMinAltitude(14100000);
         earth.setMaxAltitude(14100000);
+        // earth.minZoom(2.2);
+        // earth.maxZoom(2.2);
         earth.setZoom(2.2);
     }
     else {
         earth.setMinAltitude(26200000);
         earth.setMaxAltitude(26200000);
+        // earth.minZoom(2.64408209879224);
+        // earth.maxZoom(2.64408209879224);
         earth.setZoom(2.64408209879224);
     }
 
@@ -46,11 +50,15 @@ function initialize() {
         if (window.innerWidth < 800) {
             earth.setMinAltitude(14100000);
             earth.setMaxAltitude(14100000);
+            // earth.minZoom(2.2);
+            // earth.maxZoom(2.2);
             earth.setZoom(2.2);
         }
         else {
             earth.setMinAltitude(26200000);
             earth.setMaxAltitude(26200000);
+            // earth.minZoom(2.64408209879224);
+            // earth.maxZoom(2.64408209879224);
             earth.setZoom(2.64408209879224);
         }
     });

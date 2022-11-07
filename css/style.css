@@ -364,7 +364,7 @@ header .separator {
     }
 
     .div2 ul li button {
-        font-size: 4.5vw;
+        font-size: 3.5vw;
     }
 
     #earth_div {
@@ -384,7 +384,7 @@ header .separator {
     }
 
     .div2 {
-        grid-area: 3 / 1 / 4 / 9;
+        grid-area: 3 / 1 / 4 / 9 !important;
     }
 
     .div2 ul {
@@ -456,7 +456,7 @@ header .separator {
     }
 
     .div2 ul li button {
-        font-size: 4.5vw;
+        font-size: 3.5vw;
     }
 
     .div5 ul {
