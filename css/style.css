@@ -130,6 +130,7 @@ header .separator {
     font-size: 1.4rem;
     cursor: pointer;
     transition: all ease-in-out 0.3s;
+    text-shadow: 0 0 5px #333;
 }
 
 .div2 ul li button:hover {
