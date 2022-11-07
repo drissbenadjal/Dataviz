@@ -161,9 +161,9 @@ header .separator {
     grid-row-gap: 0px;
     height: 100vh;
 }
-    
-.div1 { 
-    grid-area: 1 / 1 / 2 / 8; 
+
+.div1 {
+    grid-area: 1 / 1 / 2 / 8;
 }
 
 .div1 img {
@@ -171,19 +171,19 @@ header .separator {
     width: 6.7%;
 }
 
-.div2 { 
-    grid-area: 2 / 1 / 9 / 2; 
+.div2 {
+    grid-area: 2 / 1 / 9 / 2;
     display: flex;
     align-items: center;
     z-index: 2;
 }
 
 .div3 {
-    grid-area: 3 / 2 / 9 / 6; 
+    grid-area: 3 / 2 / 9 / 6;
 }
 
-.div4 { 
-    grid-area: 2 / 6 / 7 / 8; 
+.div4 {
+    grid-area: 2 / 6 / 7 / 8;
     text-align: right;
     margin-right: 10%;
 }
@@ -204,7 +204,8 @@ header .separator {
     margin-right: 12%;
 }
 
-#astrodate, #astropays {
+#astrodate,
+#astropays {
     font-size: 1.4em;
     font-weight: bold;
 }
@@ -214,8 +215,8 @@ header .separator {
     transform: translate(-3%, 0px);
 }
 
-.div5 { 
-    grid-area: 7 / 6 / 9 / 8; 
+.div5 {
+    grid-area: 7 / 6 / 9 / 8;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -253,8 +254,8 @@ header .separator {
     width: 15%;
 }
 
-.div6 { 
-    grid-area: 2 / 2 / 3 / 7; 
+.div6 {
+    grid-area: 2 / 2 / 3 / 7;
 }
 
 .hidden-modal {
@@ -266,7 +267,7 @@ header .separator {
     .div4 {
         grid-area: 2 / 6 / 7 / 9 !important;
     }
-    
+
     .parent {
         display: grid;
         grid-template-columns: repeat(8, 1fr);
@@ -274,28 +275,29 @@ header .separator {
         grid-column-gap: 0px;
         grid-row-gap: 0px;
     }
-        
-    .div1 { 
-        grid-area: 1 / 1 / 2 / 9; 
+
+    .div1 {
+        grid-area: 1 / 1 / 2 / 9;
     }
 
-    .div2 { 
-        grid-area: 2 / 1 / 9 / 2; 
+    .div2 {
+        grid-area: 2 / 1 / 9 / 2;
     }
 
     .div2 ul li button {
         font-size: 1.2rem;
     }
 
-    .div3 { 
-        grid-area: 2 / 2 / 7 / 6; 
+    .div3 {
+        grid-area: 2 / 2 / 7 / 6;
     }
 
-    .div4 { 
-        grid-area: 3 / 6 / 7 / 8; 
+    .div4 {
+        grid-area: 3 / 6 / 7 / 8;
     }
 
-    .annee p, .pays p {
+    .annee p,
+    .pays p {
         font-size: 0.8em;
     }
 
@@ -303,8 +305,9 @@ header .separator {
         font-size: 0.9em;
         text-align: end;
     }
-    
-    #astrodate, #astropays {
+
+    #astrodate,
+    #astropays {
         font-size: 1.1em;
     }
 
@@ -317,7 +320,7 @@ header .separator {
         justify-content: flex-end;
     }
 
-    .div5 { 
+    .div5 {
         grid-area: 8 / 2 / 9 / 8;
         z-index: 5;
     }
@@ -349,11 +352,11 @@ header .separator {
 
 @media only screen and (max-width: 800px) {
 
-    
+
     #earth_div {
         left: 0%;
     }
- 
+
     .parent {
         display: grid;
         grid-template-columns: repeat(8, 1fr);
@@ -361,13 +364,13 @@ header .separator {
         grid-column-gap: 0px;
         grid-row-gap: 0px;
     }
-        
-    .div1 { 
-        grid-area: 1 / 1 / 2 / 9; 
+
+    .div1 {
+        grid-area: 1 / 1 / 2 / 9;
     }
 
-    .div2 { 
-        grid-area: 3 / 2 / 4 / 8; 
+    .div2 {
+        grid-area: 3 / 2 / 4 / 8;
     }
 
     .div2 ul {
@@ -382,13 +385,13 @@ header .separator {
         padding-left: 0px;
     }
 
-    .div3 { 
-        grid-area: 4 / 2 / 8 / 8; 
+    .div3 {
+        grid-area: 4 / 2 / 8 / 8;
         height: 60vh;
     }
 
-    .div4 { 
-        grid-area: 9 / 2 / 10 / 8 !important; 
+    .div4 {
+        grid-area: 9 / 2 / 10 / 8 !important;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -413,12 +416,39 @@ header .separator {
         text-align: center;
     }
 
-    .div5 { 
-        grid-area: 8 / 2 / 9 / 8; 
+    .div5 {
+        grid-area: 8 / 2 / 9 / 8;
     }
 
-    .div6 { 
-        grid-area: 2 / 2 / 3 / 8; 
+    .div6 {
+        grid-area: 2 / 2 / 3 / 8;
     }
 
+    .div5 ul {
+        list-style: none;
+        display: flex;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        flex-direction: column;
+    }
+
+}
+
+
+@media only screen and (max-width: 380px) {
+    .div2 ul {
+        gap: 5px;
+    }
+
+    .div2 ul li button {
+        font-size: 4.5vw;
+    }
+
+    .div5 ul {
+        list-style: none;
+        display: flex;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        flex-direction: column;
+    }
 }
