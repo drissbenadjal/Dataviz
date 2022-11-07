@@ -358,6 +358,14 @@ header .separator {
 
 @media only screen and (max-width: 800px) {
 
+    .div2 ul {
+        gap: 5px;
+    }
+
+    .div2 ul li button {
+        font-size: 4.5vw;
+    }
+
     #earth_div {
         left: 0%;
     }
