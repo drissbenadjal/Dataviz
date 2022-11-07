@@ -306,7 +306,7 @@ header .separator {
     font-family: 'Courier New', Courier, monospace;
     position: absolute;
     top: 0;
-    right: 0.8%;
+    right: 15px;
     background-color: transparent;
     border: none;
     font-size: 10vh;
