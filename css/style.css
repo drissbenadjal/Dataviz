@@ -405,13 +405,12 @@ header .separator {
     }
 
     .div4 {
-        grid-area: 9 / 1 / 10 / 9 !important;
+        grid-area: 9 / 2 / 10 / 9 !important;
         display: flex;
         flex-direction: column;
         align-items: center;
         margin-top: 15%;
         padding-bottom: 15%;
-        width: 90%;
     }
 
     .div4 h3 {
