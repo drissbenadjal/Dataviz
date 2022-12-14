@@ -12,7 +12,7 @@ Dataviz est un site web réalisé dans le cadre d'un projet scolaire qui avait p
 Le domaine astronomique et plus précisément les missions spéciales sont des domaines qui nous passionnaient.
 
 
-## Maintainers
+## Développeurs
 
 - [Benadjal Driss](https://github.com/drissbenadjal/)
 - [Bensaber Chaima](https://github.com/Chaimabensaber)
